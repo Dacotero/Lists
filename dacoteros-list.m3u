@@ -223,5 +223,5 @@ http://127.0.0.1:6878/ace/getstream?id=fc5089d8e1519872fdf951779ccbca913acc9bce
 http://127.0.0.1:6878/ace/getstream?id=d871578fc069de543d1ed8b5e63092d870bad8ee
 #EXTINF: -1 tvg-id="UFC RUSSIAN" tvg-logo= "https://i.postimg.cc/yN6cFvWX/Fight-new.png" group-title="UFC", UFC RUSSIAN
 http://127.0.0.1:6878/ace/getstream?id=822654b2c0db24d1de149cb21fdd44a3b968fbfa
-#EXTINF: -1 tvg-id= "UFC GENERIC" tvg-logo= "https://i.postimg.cc/yN6cFvWX/Fight-new.png" group-title="UFC",
+#EXTINF: -1 tvg-id= "UFC GENERIC" tvg-logo= "https://i.postimg.cc/yN6cFvWX/Fight-new.png" group-title="UFC", UFC GENERIC 
 http://127.0.0.1:6878/ace/getstream?id=d6cdd724a97fcf851e7ef641c28d6beb8663496e
