@@ -205,43 +205,23 @@ http://127.0.0.1:6878/ace/getstream?id=f41bd6f3eed3fa2f561e39a9865df8ab354bf486
 http://127.0.0.1:6878/ace/getstream?id=859bb6295b8d0f224224d3063d9db7cdeca03122
 #EXTINF: -1 tvg-id="Movistar #Vamos 720" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/670px-Movistar_Deportes.svg.png?to=crop&type=webp&r=540x405&q=85" group-title="Movistar deportes", Movistar #Vamos 720
 http://127.0.0.1:6878/ace/getstream?id=3bba7c95857c2502c7e03ced1a6a9b00eb567fa0
-#EXTINF: -1 tvg-id="SPORT TV1"
-tvg-logo= "https://i.postimg.cc/cLP044Gf/Sport-TV-1-logo.png"
-group-title="EXTRANJEROS", SPORT TV1
+#EXTINF: -1 tvg-id="SPORT TV1" tvg-logo= "https://i.postimg.cc/cLP044Gf/Sport-TV-1-logo.png" group-title="EXTRANJEROS", SPORT TV1
 http://127.0.0.1:6878/ace/getstream?id=ce235921dac95e1da2dd5e54673c2fecb9e806de
-#EXTINF: -1 tvg-id="SPORT TV2"
-tvg-logo= "https://i.postimg.cc/7Y2f3cP1/Sport-TV-2-logo.png"
-group-title="EXTRANJEROS", SPORT TV2
+#EXTINF: -1 tvg-id="SPORT TV2" tvg-logo= "https://i.postimg.cc/7Y2f3cP1/Sport-TV-2-logo.png" group-title="EXTRANJEROS", SPORT TV2
 http://127.0.0.1:6878/ace/getstream?id=396d82ca6f5445abcd32e6b609d67e332ee12ace
-#EXTINF: -1 tvg-id="SPORT TV3"
-tvg-logo="https://i.postimg.cc/W3y1rmQf/Sport-TV-3-logo.png"
-group-title="EXTRANJEROS", SPORT TV3
+#EXTINF: -1 tvg-id="SPORT TV3" tvg-logo="https://i.postimg.cc/W3y1rmQf/Sport-TV-3-logo.png" group-title="EXTRANJEROS", SPORT TV3
 http://127.0.0.1:6878/ace/getstream?id=f8cb9d9e3077eb3ae417b2d95a69c5f590760eb9
-#EXTINF: -1 tvg-id="BT Sport1 (UK)"
-tvg-logo= "https://i.postimg.cc/BZpK313X/BT-Sport-1-new.png"
-group-title="EXTRANJEROS",BT Sport1
+#EXTINF: -1 tvg-id="BT Sport1 (UK)" tvg-logo= "https://i.postimg.cc/BZpK313X/BT-Sport-1-new.png" group-title="EXTRANJEROS",BT Sport1
 http://127.0.0.1:6878/ace/getstream?id=ab2b69970c0629bf0fa30dd61b0072adb4ac4d9c
-#EXTINF: -1 tvg-id="BT Sport2 (UK)"
-tvg-logo="https://i.postimg.cc/sD1vR6KN/BT-Sport-2-new.png"
-group-title="EXTRANJEROS",BT Sport2
+#EXTINF: -1 tvg-id="BT Sport2 (UK)" tvg-logo="https://i.postimg.cc/sD1vR6KN/BT-Sport-2-new.png" group-title="EXTRANJEROS",BT Sport2 
 http://127.0.0.1:6878/ace/getstream?id=5f966c123759de46dff29c379266b7a403452033
-#EXTINF: -1 tvg-id="BT Sport3 (UK)"
-tvg-logo= "https://i.postimg.cc/br5YJPLF/BT-Sport-3-new.png"
-group-title="EXTRANJEROS",BT Sport3
+#EXTINF: -1 tvg-id="BT Sport3 (UK)" tvg-logo= "https://i.postimg.cc/br5YJPLF/BT-Sport-3-new.png" group-title="EXTRANJEROS",BT Sport3
 http://127.0.0.1:6878/ace/getstream?id=5f966c123759de46dff29c379266b7a403452033
-#EXTINF: -1 tvg-id="BT Sport4 (UK)"
-tvg-logo="https://i.postimg.cc/YCY2pJFb/BT-Sport-4-new.png"
-group-title="EXTRANJEROS",BT Sport4
+#EXTINF: -1 tvg-id="BT Sport4 (UK)" tvg-logo="https://i.postimg.cc/YCY2pJFb/BT-Sport-4-new.png" group-title="EXTRANJEROS",BT Sport4
 http://127.0.0.1:6878/ace/getstream?id=fc5089d8e1519872fdf951779ccbca913acc9bce
-#EXTINF: -1 tvg-id="UFC ESPANOL"
-tvg-logo= "https://i.postimg.cc/yN6cFvWX/Fight-new.png"
-group-title="UFC", UFC ESPANOL
+#EXTINF: -1 tvg-id="UFC ESPANOL"ctvg-logo= "https://i.postimg.cc/yN6cFvWX/Fight-new.png" group-title="UFC", UFC ESPANOL
 http://127.0.0.1:6878/ace/getstream?id=d871578fc069de543d1ed8b5e63092d870bad8ee
-#EXTINF: -1 tvg-id="UFC RUSSIAN"
-tvg-logo= "https://i.postimg.cc/yN6cFvWX/Fight-new.png"
-group-title="UFC", UFC RUSSIAN
+#EXTINF: -1 tvg-id="UFC RUSSIAN" tvg-logo= "https://i.postimg.cc/yN6cFvWX/Fight-new.png" group-title="UFC", UFC RUSSIAN
 http://127.0.0.1:6878/ace/getstream?id=822654b2c0db24d1de149cb21fdd44a3b968fbfa
-#EXTINF: -1 tvg-id= "UFC GENERIC"
-tvg-logo= "https://i.postimg.cc/yN6cFvWX/Fight-new.png"
-group-title="UFC",
+#EXTINF: -1 tvg-id= "UFC GENERIC" tvg-logo= "https://i.postimg.cc/yN6cFvWX/Fight-new.png" group-title="UFC",
 http://127.0.0.1:6878/ace/getstream?id=d6cdd724a97fcf851e7ef641c28d6beb8663496e
