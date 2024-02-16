@@ -154,6 +154,25 @@ http://127.0.0.1:6878/ace/getstream?id=410917d68b5325e3cd168c47b0899eb22868da8a
 http://127.0.0.1:6878/ace/getstream?id=65c705d7b387aa9b2a83e66b2fd0b9611e941a02
 #EXTINF: -1 tvg-id="DAZN F1 HD" tvg-logo="https://i.postimg.cc/Xv2QhWBT/original.png" group-title="F1", F1TV PRO 50fps 
 http://127.0.0.1:6878/ace/getstream?id=bb2976a6e2296ffa562c91d761db5460f325bd1a
+#EXTINF: -1 tvg-id="Movistar Deportes 1080" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/670px-Movistar_Deportes.svg.png?to=crop&type=webp&r=540x405&q=85" group-title="Movistar deportes", Movistar deportes 1080
+http://127.0.0.1:6878/ace/getstream?id=d00223931b1854163e24c5c22475015d7d45c112
+#EXTINF: -1 tvg-id="Movistar Deportes 720" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/670px-Movistar_Deportes.svg.png?to=crop&type=webp&r=540x405&q=85" group-title="Movistar deportes", Movistar deportes 720
+http://127.0.0.1:6878/ace/getstream?id=77d83a79afcf6c865289cd8cdb42223cd4b6501c
+#EXTINF: -1 tvg-id="Movistar Deportes 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/670px-Movistar_Deportes.svg.png?to=crop&type=webp&r=540x405&q=85" group-title="Movistar deportes", Movistar deportes 2
+http://127.0.0.1:6878/ace/getstream?id=e6f06d697f66a8fa606c4d61236c24b0d604d917
+#EXTINF: -1 tvg-id="Movistar Deportes 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/670px-Movistar_Deportes.svg.png?to=crop&type=webp&r=540x405&q=85" group-title="Movistar deportes", Movistar deportes 3
+http://127.0.0.1:6878/ace/getstream?id=aee0a595220e0f1c2fee725fd1dbc602d7152a9a
+#EXTINF: -1 tvg-id="Movistar Deportes 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/670px-Movistar_Deportes.svg.png?to=crop&type=webp&r=540x405&q=85" group-title="Movistar deportes", Movistar deportes 4
+http://127.0.0.1:6878/ace/getstream?id=42e83c337ece0af9ca7808859f84c7960e9cb6f5
+#EXTINF: -1 tvg-id="Movistar Deportes 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/670px-Movistar_Deportes.svg.png?to=crop&type=webp&r=540x405&q=85" group-title="Movistar deportes", Movistar deportes 5
+http://127.0.0.1:6878/ace/getstream?id=b1e5abc48195b7ca9b2ee1b352e790eb9f7292e3
+#EXTINF: -1 tvg-id="Movistar Deportes 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/670px-Movistar_Deportes.svg.png?to=crop&type=webp&r=540x405&q=85" group-title="Movistar deportes", Movistar deportes 6
+http://127.0.0.1:6878/ace/getstream?id=f41bd6f3eed3fa2f561e39a9865df8ab354bf486
+#EXTINF: -1 tvg-id="Movistar #Vamos 1080" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/670px-Movistar_Deportes.svg.png?to=crop&type=webp&r=540x405&q=85" group-title="Movistar deportes", Movistar #Vamos 1080
+http://127.0.0.1:6878/ace/getstream?id=859bb6295b8d0f224224d3063d9db7cdeca03122
+#EXTINF: -1 tvg-id="Movistar #Vamos 720" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/670px-Movistar_Deportes.svg.png?to=crop&type=webp&r=540x405&q=85" group-title="Movistar deportes", Movistar #Vamos 720
+http://127.0.0.1:6878/ace/getstream?id=3bba7c95857c2502c7e03ced1a6a9b00eb567fa0
+
 #EXTINF: -1 tvg-id="M+ Golf HD" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mgo.png" group-title="Varios Acestream", M. Golf
 http://127.0.0.1:6878/ace/getstream?id=4f945b0ba4206fa2676b61e9eaa465ac3dcc8122
 #EXTINF: -1 tvg-id="M+ Golf 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Golf_Channel_Latin_America_-_Logo.svg/188px-Golf_Channel_Latin_America_-_Logo.svg.png" group-title="Varios Acestream", M. Golf 2
@@ -178,24 +197,6 @@ http://127.0.0.1:6878/ace/getstream?id=118416583faa3fb4f03800173429b6b844b43a52
 http://127.0.0.1:6878/ace/getstream?id=e1d74c79ab7b3991b3ed40b199abd0e8eb0ae511
 #EXTINF: -1 tvg-id="DirectSports Plus" tvg-logo="https://i.postimg.cc/GmTGpfkp/DTV.png" group-title="Varios Acestream", DirectSports Plus
 http://127.0.0.1:6878/ace/getstream?id=e5dd056bbcbf637c7fa314288356a8024e426f18
-#EXTINF: -1 tvg-id="Movistar Deportes 1080" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/670px-Movistar_Deportes.svg.png?to=crop&type=webp&r=540x405&q=85" group-title="Movistar deportes", Movistar deportes 1080
-http://127.0.0.1:6878/ace/getstream?id=d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF: -1 tvg-id="Movistar Deportes 720" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/670px-Movistar_Deportes.svg.png?to=crop&type=webp&r=540x405&q=85" group-title="Movistar deportes", Movistar deportes 720
-http://127.0.0.1:6878/ace/getstream?id=77d83a79afcf6c865289cd8cdb42223cd4b6501c
-#EXTINF: -1 tvg-id="Movistar Deportes 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/670px-Movistar_Deportes.svg.png?to=crop&type=webp&r=540x405&q=85" group-title="Movistar deportes", Movistar deportes 2
-http://127.0.0.1:6878/ace/getstream?id=e6f06d697f66a8fa606c4d61236c24b0d604d917
-#EXTINF: -1 tvg-id="Movistar Deportes 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/670px-Movistar_Deportes.svg.png?to=crop&type=webp&r=540x405&q=85" group-title="Movistar deportes", Movistar deportes 3
-http://127.0.0.1:6878/ace/getstream?id=aee0a595220e0f1c2fee725fd1dbc602d7152a9a
-#EXTINF: -1 tvg-id="Movistar Deportes 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/670px-Movistar_Deportes.svg.png?to=crop&type=webp&r=540x405&q=85" group-title="Movistar deportes", Movistar deportes 4
-http://127.0.0.1:6878/ace/getstream?id=42e83c337ece0af9ca7808859f84c7960e9cb6f5
-#EXTINF: -1 tvg-id="Movistar Deportes 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/670px-Movistar_Deportes.svg.png?to=crop&type=webp&r=540x405&q=85" group-title="Movistar deportes", Movistar deportes 5
-http://127.0.0.1:6878/ace/getstream?id=b1e5abc48195b7ca9b2ee1b352e790eb9f7292e3
-#EXTINF: -1 tvg-id="Movistar Deportes 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/670px-Movistar_Deportes.svg.png?to=crop&type=webp&r=540x405&q=85" group-title="Movistar deportes", Movistar deportes 6
-http://127.0.0.1:6878/ace/getstream?id=f41bd6f3eed3fa2f561e39a9865df8ab354bf486
-#EXTINF: -1 tvg-id="Movistar #Vamos 1080" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/670px-Movistar_Deportes.svg.png?to=crop&type=webp&r=540x405&q=85" group-title="Movistar deportes", Movistar #Vamos 1080
-http://127.0.0.1:6878/ace/getstream?id=859bb6295b8d0f224224d3063d9db7cdeca03122
-#EXTINF: -1 tvg-id="Movistar #Vamos 720" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/670px-Movistar_Deportes.svg.png?to=crop&type=webp&r=540x405&q=85" group-title="Movistar deportes", Movistar #Vamos 720
-http://127.0.0.1:6878/ace/getstream?id=3bba7c95857c2502c7e03ced1a6a9b00eb567fa0
 #EXTINF: -1 tvg-id="SPORT TV1" tvg-logo= "https://i.postimg.cc/cLP044Gf/Sport-TV-1-logo.png" group-title="EXTRANJEROS", SPORT TV1
 http://127.0.0.1:6878/ace/getstream?id=ce235921dac95e1da2dd5e54673c2fecb9e806de
 #EXTINF: -1 tvg-id="SPORT TV2" tvg-logo= "https://i.postimg.cc/7Y2f3cP1/Sport-TV-2-logo.png" group-title="EXTRANJEROS", SPORT TV2
