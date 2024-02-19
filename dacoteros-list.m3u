@@ -216,6 +216,10 @@ http://127.0.0.1:6878/ace/getstream?id=d871578fc069de543d1ed8b5e63092d870bad8ee
 http://127.0.0.1:6878/ace/getstream?id=822654b2c0db24d1de149cb21fdd44a3b968fbfa
 #EXTINF: -1 tvg-id= "UFC GENERIC" tvg-logo= "https://i.postimg.cc/yN6cFvWX/Fight-new.png" group-title="UFC", UFC GENERIC 
 http://127.0.0.1:6878/ace/getstream?id=d6cdd724a97fcf851e7ef641c28d6beb8663496e
+#EXTINF: -1 tvg-name="CMM TV" tvg-logo="https://www.neoteo.com/wp-content/uploads/2013/10/capture322.png" group-title="Peliculas Acestream", Luces Fuera (2023)
+http://127.0.0.1:6878/ace/getstream?id=38f1a225ac98205b451e6f3533b10616c2fc214c
+#EXTINF: -1 tvg-name="CMM TV" tvg-logo="https://www.neoteo.com/wp-content/uploads/2013/10/capture322.png" group-title="Peliculas Acestream", Johnny Z (2023)
+http://127.0.0.1:6878/ace/getstream?id=32f825b0f88f832bc2c9706ca61a713520c414ec
 #EXTINF: -1 tvg-name="CMM TV" tvg-logo="https://www.neoteo.com/wp-content/uploads/2013/10/capture322.png" group-title="Peliculas Acestream", Noche de Paz (2023)
 http://127.0.0.1:6878/ace/getstream?id=d6dd4a0b811fcbd22eac72a640012a08ed5a6027
 #EXTINF: -1 tvg-name="CMM TV" tvg-logo="https://www.neoteo.com/wp-content/uploads/2013/10/capture322.png" group-title="Peliculas Acestream", Five nights at freddy (2023)
