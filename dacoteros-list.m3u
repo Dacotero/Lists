@@ -216,6 +216,26 @@ http://127.0.0.1:6878/ace/getstream?id=d871578fc069de543d1ed8b5e63092d870bad8ee
 http://127.0.0.1:6878/ace/getstream?id=822654b2c0db24d1de149cb21fdd44a3b968fbfa
 #EXTINF: -1 tvg-id= "UFC GENERIC" tvg-logo= "https://i.postimg.cc/yN6cFvWX/Fight-new.png" group-title="UFC", UFC GENERIC 
 http://127.0.0.1:6878/ace/getstream?id=d6cdd724a97fcf851e7ef641c28d6beb8663496e
+#EXTINF: -1 tvg-name="CMM TV" tvg-logo="https://www.neoteo.com/wp-content/uploads/2013/10/capture322.png" group-title="Peliculas Acestream",60 minutos (2024)
+http://127.0.0.1:6878/ace/getstream?id=0ce9a5512d651abd87a59fb21099fc5d0cf2fa15
+#EXTINF: -1 tvg-name="CMM TV" tvg-logo="https://www.neoteo.com/wp-content/uploads/2013/10/capture322.png" group-title="Peliculas Acestream",American Insurrection (2023)
+http://127.0.0.1:6878/ace/getstream?id=04f6b6854b33b34736a5c5daf6901bb9b03191df
+#EXTINF: -1 tvg-name="CMM TV" tvg-logo="https://www.neoteo.com/wp-content/uploads/2013/10/capture322.png" group-title="Peliculas Acestream",Algun dia nos lo contaremos todo (2024)
+http://127.0.0.1:6878/ace/getstream?id=3c09384041598c1bf75dc050bad9cb4738a95272
+#EXTINF: -1 tvg-name="CMM TV" tvg-logo="https://www.neoteo.com/wp-content/uploads/2013/10/capture322.png" group-title="Peliculas Acestream",Alimañas (2024)
+http://127.0.0.1:6878/ace/getstream?id=529d3cf9b011cd4573686b1722b08b37e4169aca
+#EXTINF: -1 tvg-name="CMM TV" tvg-logo="https://www.neoteo.com/wp-content/uploads/2013/10/capture322.png" group-title="Peliculas Acestream",Champions (2023)
+http://127.0.0.1:6878/ace/getstream?id=43e4bd5cbc5b3344c091a6162c87b7b7b6d50a48
+#EXTINF: -1 tvg-name="CMM TV" tvg-logo="https://www.neoteo.com/wp-content/uploads/2013/10/capture322.png" group-title="Peliculas Acestream",Como Dios manda (2023)
+http://127.0.0.1:6878/ace/getstream?id=bef7091a5ce7b98e7946cefe06be19c944946c35
+#EXTINF: -1 tvg-name="CMM TV" tvg-logo="https://www.neoteo.com/wp-content/uploads/2013/10/capture322.png" group-title="Peliculas Acestream",Yannick (2024)
+http://127.0.0.1:6878/ace/getstream?id=ce7eab7eb614f4af67e6d4d00b681dcd26863a50
+#EXTINF: -1 tvg-name="CMM TV" tvg-logo="https://www.neoteo.com/wp-content/uploads/2013/10/capture322.png" group-title="Peliculas Acestream",Voluntad (2024)
+http://127.0.0.1:6878/ace/getstream?id=82a93fe037bda9587903df24b9e91c6184b20459
+#EXTINF: -1 tvg-name="CMM TV" tvg-logo="https://www.neoteo.com/wp-content/uploads/2013/10/capture322.png" group-title="Peliculas Acestream",Strays - Vida perra (2023)
+http://127.0.0.1:6878/ace/getstream?id=02e4945880395008a13816b7081a40ceecc3ff72
+#EXTINF: -1 tvg-name="CMM TV" tvg-logo="https://www.neoteo.com/wp-content/uploads/2013/10/capture322.png" group-title="Peliculas Acestream",Juego prohibido (2024)
+http://127.0.0.1:6878/ace/getstream?id=30f679868140a93a5f857b79308240ddef6bd109
 #EXTINF: -1 tvg-name="CMM TV" tvg-logo="https://www.neoteo.com/wp-content/uploads/2013/10/capture322.png" group-title="Peliculas Acestream", Mi otro Jon (2023)
 http://127.0.0.1:6878/ace/getstream?id=e4fa680552a60232e71ee006adfaa537db20a128
 #EXTINF: -1 tvg-name="CMM TV" tvg-logo="https://www.neoteo.com/wp-content/uploads/2013/10/capture322.png" group-title="Peliculas Acestream", Blood de Brad Anderson (2023)
