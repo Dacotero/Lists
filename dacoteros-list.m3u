@@ -220,29 +220,29 @@ http://127.0.0.1:6878/ace/getstream?id=d871578fc069de543d1ed8b5e63092d870bad8ee
 http://127.0.0.1:6878/ace/getstream?id=822654b2c0db24d1de149cb21fdd44a3b968fbfa
 #EXTINF: -1 tvg-id= "UFC GENERIC" tvg-logo= "https://i.postimg.cc/yN6cFvWX/Fight-new.png" group-title="UFC", UFC GENERIC 
 http://127.0.0.1:6878/ace/getstream?id=d6cdd724a97fcf851e7ef641c28d6beb8663496e
-tvg-logo="https://www.neoteo.com/wp-content/uploads/2013/10/capture322.png" group-title="Peliculas Acestream", De vuelta en el Strip (2023)
+#EXTINF: -1 tvg-name="CMM TV" tvg-logo="https://www.neoteo.com/wp-content/uploads/2013/10/capture322.png" group-title="Peliculas Acestream", De vuelta en el Strip (2023)
 http://127.0.0.1:6878/ace/getstream?id=0d46352522f1a7f49ed78a2b5b6c9e3b440d939a
-tvg-logo="https://www.neoteo.com/wp-content/uploads/2013/10/capture322.png" group-title="Peliculas Acestream", El cuco (2023)
+#EXTINF: -1 tvg-name="CMM TV" tvg-logo="https://www.neoteo.com/wp-content/uploads/2013/10/capture322.png" group-title="Peliculas Acestream", El cuco (2023)
 http://127.0.0.1:6878/ace/getstream?id=501feb26c26f49537688f813aca21ff7cf358186
-tvg-logo="https://www.neoteo.com/wp-content/uploads/2013/10/capture322.png" group-title="Peliculas Acestream", El Valle de la esperanza (2023)
+#EXTINF: -1 tvg-name="CMM TV" tvg-logo="https://www.neoteo.com/wp-content/uploads/2013/10/capture322.png" group-title="Peliculas Acestream", El Valle de la esperanza (2023)
 http://127.0.0.1:6878/ace/getstream?id=a568ea1aa655a8956508149b30d65ae441fa8d38
-tvg-logo="https://www.neoteo.com/wp-content/uploads/2013/10/capture322.png" group-title="Peliculas Acestream", El viaje de Rickey Hill (2023)
+#EXTINF: -1 tvg-name="CMM TV" tvg-logo="https://www.neoteo.com/wp-content/uploads/2013/10/capture322.png" group-title="Peliculas Acestream", El viaje de Rickey Hill (2023)
 http://127.0.0.1:6878/ace/getstream?id=5dc53ddee85d17cf1d2186ebe688d09e8fb615cc
-tvg-logo="https://www.neoteo.com/wp-content/uploads/2013/10/capture322.png" group-title="Peliculas Acestream", Las dos caras de la justicia (2023)
+#EXTINF: -1 tvg-name="CMM TV" tvg-logo="https://www.neoteo.com/wp-content/uploads/2013/10/capture322.png" group-title="Peliculas Acestream", Las dos caras de la justicia (2023)
 http://127.0.0.1:6878/ace/getstream?id=793d6686d0db6512ade8d9f0ac24c2c8ff6a0e81
-tvg-logo="https://www.neoteo.com/wp-content/uploads/2013/10/capture322.png" group-title="Peliculas Acestream", Lift: Un robo de primera clase (2024)
+#EXTINF: -1 tvg-name="CMM TV" tvg-logo="https://www.neoteo.com/wp-content/uploads/2013/10/capture322.png" group-title="Peliculas Acestream", Lift: Un robo de primera clase (2024)
 http://127.0.0.1:6878/ace/getstream?id=f37c30b42c4ce0999f8511a42a0c2a227708a2b8
-tvg-logo="https://www.neoteo.com/wp-content/uploads/2013/10/capture322.png" group-title="Peliculas Acestream", Piscina infinita (2023)
+#EXTINF: -1 tvg-name="CMM TV" tvg-logo="https://www.neoteo.com/wp-content/uploads/2013/10/capture322.png" group-title="Peliculas Acestream", Piscina infinita (2023)
 http://127.0.0.1:6878/ace/getstream?id=8d938dc5f1bcf0d111e1b3defed8d8ef73f7e70c
-tvg-logo="https://www.neoteo.com/wp-content/uploads/2013/10/capture322.png" group-title="Peliculas Acestream", Remando como un sólo hombre (2023)
+#EXTINF: -1 tvg-name="CMM TV" tvg-logo="https://www.neoteo.com/wp-content/uploads/2013/10/capture322.png" group-title="Peliculas Acestream", Remando como un sólo hombre (2023)
 http://127.0.0.1:6878/ace/getstream?id=d1589664c9238d0d55710bc4586dcbf0229f0074
-tvg-logo="https://www.neoteo.com/wp-content/uploads/2013/10/capture322.png" group-title="Peliculas Acestream", Un largo viaje (2023)
+#EXTINF: -1 tvg-name="CMM TV" tvg-logo="https://www.neoteo.com/wp-content/uploads/2013/10/capture322.png" group-title="Peliculas Acestream", Un largo viaje (2023)
 http://127.0.0.1:6878/ace/getstream?id=3ad6a4fa9353e68043b7e8bc54f0f420382366a1
-tvg-logo="https://www.neoteo.com/wp-content/uploads/2013/10/capture322.png" group-title="Peliculas Acestream", Increíble pero cierto (2024)
+#EXTINF: -1 tvg-name="CMM TV" tvg-logo="https://www.neoteo.com/wp-content/uploads/2013/10/capture322.png" group-title="Peliculas Acestream", Increíble pero cierto (2024)
 http://127.0.0.1:6878/ace/getstream?id=a0dd736fb393099cd043f416e61f866909e319ce
-tvg-logo="https://www.neoteo.com/wp-content/uploads/2013/10/capture322.png" group-title="Peliculas Acestream", Palido - Due Justice (2024)
+#EXTINF: -1 tvg-name="CMM TV" tvg-logo="https://www.neoteo.com/wp-content/uploads/2013/10/capture322.png" group-title="Peliculas Acestream", Palido - Due Justice (2024)
 http://127.0.0.1:6878/ace/getstream?id=751d1fafe300e930fdf57593b826718ccca0234f
-tvg-logo="https://www.neoteo.com/wp-content/uploads/2013/10/capture322.png" group-title="Peliculas Acestream", Lluvia Acida (2024)
+#EXTINF: -1 tvg-name="CMM TV" tvg-logo="https://www.neoteo.com/wp-content/uploads/2013/10/capture322.png" group-title="Peliculas Acestream", Lluvia Acida (2024)
 http://127.0.0.1:6878/ace/getstream?id=d306d8be4c26029a148bc170c4247f7f2cf4d25c
 #EXTINF: -1 tvg-name="CMM TV" tvg-logo="https://www.neoteo.com/wp-content/uploads/2013/10/capture322.png" group-title="Peliculas Acestream",60 minutos (2024)
 http://127.0.0.1:6878/ace/getstream?id=0ce9a5512d651abd87a59fb21099fc5d0cf2fa15
