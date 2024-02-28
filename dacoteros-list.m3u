@@ -6,8 +6,8 @@ https://ztnr.rtve.es/ztnr/1688877.m3u8
 https://ztnr.rtve.es/ztnr/1688885.m3u8
 #EXTINF: -1 tvg-id="TDP [TeleDeporte] [1080p]" tvg-logo="https://i.ibb.co/thh1tKH/TDP.jpg" group-title="TDT", Teledeporte
 https://ztnr.rtve.es/ztnr/1712295.m3u8
-#EXTINF: -1 tvg-id="GOL PLAY [1080]" tvg-logo= "https://i.postimg.cc/cCThLjpn/gol-play.png" group-title="TDT",GOL Play
-http://127.0.0.1:6878/ace/getstream?id=d4627f7b6b237a8556819445b3283d866caceca2
+#EXTINF: -1 tvg-id="Antena 3" tvg-logo= "https://i.postimg.cc/cCThLjpn/gol-play.png" group-title="TDT",GOL Play
+https://atres-live.atresmedia.com/b661ebeea11ecfa5dc7ce573790b5680e876f046_ES_1709145766_1709174506/h264/live/antena3/master.m3u8
 #EXTINF: -1 tvg-id="CUATRO TV" tvg-logo= "https://i.ibb.co/FJch0Y9/Cuatro.jpg" group-title="TDT", Cuatro
 http://127.0.0.1:6878/ace/getstream?id=e8eec35f4662be1af96963245bfa88fb7d0242c4
 #EXTINF: -1 tvg-id="TeleCinco" tvg-logo= "https://www.movistarplus.es/recorte/m-NEO/canal/T5.png" group-title="TDT",Telecinco
