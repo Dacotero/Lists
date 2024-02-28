@@ -1,9 +1,9 @@
 #EXTM3U 
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiaiptv.xml"
 #EXTINF: -1 tvg-id="LA 1" tvg-logo="https://i.ibb.co/swhGnw4/La1.jpg" group-title="TDT", LA 1
-http://127.0.0.1:6878/ace/getstream?id=02b9307c5c97c86914cc5939d6bbeb5b4ec60b47
+https://ztnr.rtve.es/ztnr/1688877.m3u8
 #EXTINF: -1 tvg-id="LA 2" tvg-logo="https://i.postimg.cc/13XJ1k3Y/Logo-La2.png" group-title="TDT", LA 2
-http://127.0.0.1:6878/ace/getstream?id=60106275d34f995e26bb2cc4a21a42f586c6c555
+https://ztnr.rtve.es/ztnr/1688885.m3u8
 #EXTINF: -1 tvg-id="TDP [TeleDeporte] [1080p]" tvg-logo="https://i.ibb.co/thh1tKH/TDP.jpg" group-title="TDT", Teledeporte
 http://127.0.0.1:6878/ace/getstream?id=e2395d28ad19423212fd3aa0e81f387db3e8bb9f
 #EXTINF: -1 tvg-id="GOL PLAY [1080]" tvg-logo= "https://i.postimg.cc/cCThLjpn/gol-play.png" group-title="TDT",GOL Play
