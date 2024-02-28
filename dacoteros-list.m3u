@@ -6,7 +6,7 @@ https://ztnr.rtve.es/ztnr/1688877.m3u8
 https://ztnr.rtve.es/ztnr/1688885.m3u8
 #EXTINF: -1 tvg-id="TDP [TeleDeporte] [1080p]" tvg-logo="https://i.ibb.co/thh1tKH/TDP.jpg" group-title="TDT", Teledeporte
 https://ztnr.rtve.es/ztnr/1712295.m3u8
-#EXTINF: -1 tvg-id="Antena 3" tvg-logo= "https://graph.facebook.com/antena3/picture?width=200&height=200" group-title="TDT",Antena 3
+#EXTINF: -1 tvg-id="Antena 3" tvg-logo= "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/A3.png" group-title="TDT",Antena 3
 https://atres-live.atresmedia.com/b661ebeea11ecfa5dc7ce573790b5680e876f046_ES_1709145766_1709174506/h264/live/antena3/master.m3u8
 #EXTINF: -1 tvg-id="CUATRO TV" tvg-logo= "https://i.ibb.co/FJch0Y9/Cuatro.jpg" group-title="TDT", Cuatro
 http://127.0.0.1:6878/ace/getstream?id=e8eec35f4662be1af96963245bfa88fb7d0242c4
