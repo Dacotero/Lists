@@ -1,17 +1,5 @@
 #EXTM3U 
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiaiptv.xml"
-#EXTINF: -1 tvg-id="LA 1" tvg-logo="https://i.ibb.co/swhGnw4/La1.jpg" group-title="TDT", LA 1
-https://ztnr.rtve.es/ztnr/1688877.m3u8
-#EXTINF: -1 tvg-id="LA 2" tvg-logo="https://i.postimg.cc/13XJ1k3Y/Logo-La2.png" group-title="TDT", LA 2
-https://ztnr.rtve.es/ztnr/1688885.m3u8
-#EXTINF: -1 tvg-id="TDP [TeleDeporte] [1080p]" tvg-logo="https://i.ibb.co/thh1tKH/TDP.jpg" group-title="TDT", Teledeporte
-https://ztnr.rtve.es/ztnr/1712295.m3u8
-#EXTINF: -1 tvg-id="Antena 3" tvg-logo= "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/A3.png" group-title="TDT",Antena 3
-https://atres-live.atresmedia.com/b661ebeea11ecfa5dc7ce573790b5680e876f046_ES_1709145766_1709174506/h264/live/antena3/master.m3u8
-#EXTINF: -1 tvg-id="CUATRO TV" tvg-logo= "https://i.ibb.co/FJch0Y9/Cuatro.jpg" group-title="TDT", Cuatro
-http://127.0.0.1:6878/ace/getstream?id=e8eec35f4662be1af96963245bfa88fb7d0242c4
-#EXTINF: -1 tvg-id="TeleCinco" tvg-logo= "https://www.movistarplus.es/recorte/m-NEO/canal/T5.png" group-title="TDT",Telecinco
-https://crcdn09.adnxs-simple.com/creative20/p/13337/2024/2/20/54729052/fbd1bc15-ee05-433d-9cb5-aede0c4784e7_768_432_500k.webm
 #EXTINF: -1 tvg-id="LaLiga+ BARES" tvg-logo="https://tecnohoreca.com/wp-content/uploads/2021/02/208-laliga-tv-bar.png" group-title="LALIGA EA", LaLiga+ BARES
 http://127.0.0.1:6878/ace/getstream?id=aa82e7d4f03061f2144a2f4be22f2e2210d42280
 #EXTINF: -1 tvg-id="M+" tvg-logo="https://i.postimg.cc/FRkzqyqM/Logo-Movistar-Plus.png" group-title="LALIGA EA", Movistar plus+
@@ -176,9 +164,9 @@ http://127.0.0.1:6878/ace/getstream?id=f41bd6f3eed3fa2f561e39a9865df8ab354bf486
 http://127.0.0.1:6878/ace/getstream?id=859bb6295b8d0f224224d3063d9db7cdeca03122
 #EXTINF: -1 tvg-id="Movistar #Vamos 720" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/670px-Movistar_Deportes.svg.png?to=crop&type=webp&r=540x405&q=85" group-title="Movistar deportes", M+ Vamos
 http://127.0.0.1:6878/ace/getstream?id=3bba7c95857c2502c7e03ced1a6a9b00eb567fa0
-#EXTINF: -1 tvg-id="M+ Golf HD" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mgo.png" group-title="Varios Acestream", M+ Golf
+#EXTINF: -1 tvg-id="M+ Golf HD" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mgo.png" group-title="Movistar deportes", M+ Golf
 http://127.0.0.1:6878/ace/getstream?id=4f945b0ba4206fa2676b61e9eaa465ac3dcc8122
-#EXTINF: -1 tvg-id="M+ Golf 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Golf_Channel_Latin_America_-_Logo.svg/188px-Golf_Channel_Latin_America_-_Logo.svg.png" group-title="Varios Acestream", M+ Golf 2
+#EXTINF: -1 tvg-id="M+ Golf 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Golf_Channel_Latin_America_-_Logo.svg/188px-Golf_Channel_Latin_America_-_Logo.svg.png" group-title="Movistar deportes", M+ Golf 2
 http://127.0.0.1:6878/ace/getstream?id=9a4f3ae6563668b7709dac509dedc709441b3fd9
 #EXTINF: -1 tvg-id="beIN Sport ñ1" tvg-logo="https://cdn141.picsart.com/d2212bf5-0999-4b88-a137-e70f998eeada/402020668010211.png?to=crop&type=webp&r=540x405&q=85" group-title="Varios Acestream", beIN SPORT ñ1
 http://127.0.0.1:6878/ace/getstream?id=4853a0bd4fd17f85f563267feb6aec3319a3ac1d
@@ -220,6 +208,18 @@ http://127.0.0.1:6878/ace/getstream?id=d871578fc069de543d1ed8b5e63092d870bad8ee
 http://127.0.0.1:6878/ace/getstream?id=822654b2c0db24d1de149cb21fdd44a3b968fbfa
 #EXTINF: -1 tvg-id= "UFC GENERIC" tvg-logo= "https://i.postimg.cc/yN6cFvWX/Fight-new.png" group-title="UFC", UFC GENERIC 
 http://127.0.0.1:6878/ace/getstream?id=d6cdd724a97fcf851e7ef641c28d6beb8663496e
+#EXTINF: -1 tvg-id="LA 1" tvg-logo="https://i.ibb.co/swhGnw4/La1.jpg" group-title="TDT", LA 1
+https://ztnr.rtve.es/ztnr/1688877.m3u8
+#EXTINF: -1 tvg-id="LA 2" tvg-logo="https://i.postimg.cc/13XJ1k3Y/Logo-La2.png" group-title="TDT", LA 2
+https://ztnr.rtve.es/ztnr/1688885.m3u8
+#EXTINF: -1 tvg-id="TDP [TeleDeporte] [1080p]" tvg-logo="https://i.ibb.co/thh1tKH/TDP.jpg" group-title="TDT", Teledeporte
+https://ztnr.rtve.es/ztnr/1712295.m3u8
+#EXTINF: -1 tvg-id="Antena 3" tvg-logo= "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/A3.png" group-title="TDT",Antena 3
+https://atres-live.atresmedia.com/b661ebeea11ecfa5dc7ce573790b5680e876f046_ES_1709145766_1709174506/h264/live/antena3/master.m3u8
+#EXTINF: -1 tvg-id="CUATRO TV" tvg-logo= "https://i.ibb.co/FJch0Y9/Cuatro.jpg" group-title="TDT", Cuatro
+http://127.0.0.1:6878/ace/getstream?id=e8eec35f4662be1af96963245bfa88fb7d0242c4
+#EXTINF: -1 tvg-id="TeleCinco" tvg-logo= "https://www.movistarplus.es/recorte/m-NEO/canal/T5.png" group-title="TDT",Telecinco
+https://crcdn09.adnxs-simple.com/creative20/p/13337/2024/2/20/54729052/fbd1bc15-ee05-433d-9cb5-aede0c4784e7_768_432_500k.webm
 #EXTINF: -1 tvg-name="CMM TV" tvg-logo="https://www.neoteo.com/wp-content/uploads/2013/10/capture322.png" group-title="Peliculas Acestream", De vuelta en el Strip (2023)
 http://127.0.0.1:6878/ace/getstream?id=0d46352522f1a7f49ed78a2b5b6c9e3b440d939a
 #EXTINF: -1 tvg-name="CMM TV" tvg-logo="https://www.neoteo.com/wp-content/uploads/2013/10/capture322.png" group-title="Peliculas Acestream", El cuco (2023)
