@@ -168,9 +168,9 @@ http://127.0.0.1:6878/ace/getstream?id=3bba7c95857c2502c7e03ced1a6a9b00eb567fa0
 http://127.0.0.1:6878/ace/getstream?id=4f945b0ba4206fa2676b61e9eaa465ac3dcc8122
 #EXTINF: -1 tvg-id="M+ Golf 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Golf_Channel_Latin_America_-_Logo.svg/188px-Golf_Channel_Latin_America_-_Logo.svg.png" group-title="Movistar deportes", M+ Golf 2
 http://127.0.0.1:6878/ace/getstream?id=9a4f3ae6563668b7709dac509dedc709441b3fd9
-#EXTINF: -1 tvg-id="EuroSport 1 [1080]" tvg-logo="https://i.postimg.cc/Y2JDhKL1/eurosport1-new.png" group-title="EuroSport", EuroSport 1 [1080]
+#EXTINF: -1 tvg-id="EuroSport 1" tvg-logo="https://i.postimg.cc/Y2JDhKL1/eurosport1-new.png" group-title="EuroSport", EuroSport 1 [1080]
 http://127.0.0.1:6878/ace/getstream?id=5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
-#EXTINF: -1 tvg-id="EuroSport 2 [1080]" tvg-logo="https://i.postimg.cc/PxH32mh2/eurosport2-new.png" group-title="EuroSport", EuroSport 2 [1080]
+#EXTINF: -1 tvg-id="EuroSport 2" tvg-logo="https://i.postimg.cc/PxH32mh2/eurosport2-new.png" group-title="EuroSport", EuroSport 2 [1080]
 http://127.0.0.1:6878/ace/getstream?id=c373da9e901d414b7384e671112e64d5a2310c29
 #EXTINF: -1 tvg-id="beIN Sport ñ1" tvg-logo="https://cdn141.picsart.com/d2212bf5-0999-4b88-a137-e70f998eeada/402020668010211.png?to=crop&type=webp&r=540x405&q=85" group-title="Varios Acestream", beIN SPORT ñ1
 http://127.0.0.1:6878/ace/getstream?id=4853a0bd4fd17f85f563267feb6aec3319a3ac1d
