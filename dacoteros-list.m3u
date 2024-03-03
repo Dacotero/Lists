@@ -330,8 +330,9 @@ http://127.0.0.1:6878/ace/getstream?id=42082256dc9d93a9cd0097b9a40fc1d8f9b66b5c
 http://127.0.0.1:6878/ace/getstream?id=11771d7b23eb571056451f0ac720c1fcf77226ff
 #EXTINF: -1 tvg-name="CMM TV" tvg-logo="https://www.neoteo.com/wp-content/uploads/2013/10/capture322.png" group-title="Peliculas Acestream", Alta mar (2023)
 http://127.0.0.1:6878/ace/getstream?id=889f7d059468bf5ebf7087225e6f922b5d9fc8c7
-#EXTINF: -1 tvg-name="CMM TV" tvg-logo="https://www.neoteo.com/wp-content/uploads/2013/10/capture322.png" group-title="Peliculas Acestream", Retumbar a través de la oscuridad (2023)
+#EXTINF: -1 tvg-name="CMM TV" tvg-logo="https://pics.filmaffinity.com/Rumble_Through_the_Dark-442344112-large.jpg" group-title="Peliculas Acestream", Retumbar a través de la oscuridad (2023)
 http://127.0.0.1:6878/ace/getstream?id=a4a5710b40e1f28f7d80ec24c6dd4e75053d7c6e
+#EXTINF: -1 tvg-name="CMM TV" tvg-logo="https://pics.filmaffinity.com/Los_asesinos_de_la_luna-211527208-large.jpg" group-title="Peliculas Acestream", Los asesinos de la luna (2023)
 http://127.0.0.1:6878/ace/getstream?id=8b1df56b8d66300de36c4ce86be87ebc7ea8bfa8
 #EXTINF: -1 tvg-name="CMM TV" tvg-logo="https://pics.filmaffinity.com/Feliz_Mini_Bat_Navidad-682538291-large.jpg" group-title="Peliculas Acestream", La Navidad del pequeño batman (2023)
 http://127.0.0.1:6878/ace/getstream?id=7101144032c8cf9469c073ca9a6969e1cfd2bc6d
