@@ -230,7 +230,7 @@ http://127.0.0.1:6878/ace/getstream?id=1e50c75f095ebf125923dc564fb774d28a3b1b62
 http://127.0.0.1:6878/ace/getstream?id=1398b004bbede5dbda08262e1e73417ef2c30953
 #EXTINF: -1 tvg-name="CMM TV" tvg-logo="https://image.tmdb.org/t/p/original/rOVuIhWelG9TgEI2YIWNkIQW4ws.jpg" group-title="Peliculas Acestream", Una sociedad educada (2024)
 http://127.0.0.1:6878/ace/getstream?id=3b664f3dfc383adf28b674d43b067ba24cf167d1
-#EXTINF: -1 tvg-name="CMM TV" tvg-logo="https://pics.filmaffinity.com/De_vuelta_en_El_Strip-840332283-large.jpg" group-title="Peliculas Acestream", De vuelta en el Strip (2023)
+#EXTINF: -1 tvg-name="CMM TV" tvg-logo="https://bossip.com/wp-content/uploads/sites/28/2023/02/16766775007803.png" group-title="Peliculas Acestream", De vuelta en el Strip (2023)
 http://127.0.0.1:6878/ace/getstream?id=0d46352522f1a7f49ed78a2b5b6c9e3b440d939a
 #EXTINF: -1 tvg-name="CMM TV" tvg-logo="https://pics.filmaffinity.com/El_cuco-788052686-large.jpg" group-title="Peliculas Acestream", El cuco (2023)
 http://127.0.0.1:6878/ace/getstream?id=501feb26c26f49537688f813aca21ff7cf358186
