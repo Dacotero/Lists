@@ -262,7 +262,7 @@ http://127.0.0.1:6878/ace/getstream?id=04f6b6854b33b34736a5c5daf6901bb9b03191df
 http://127.0.0.1:6878/ace/getstream?id=3c09384041598c1bf75dc050bad9cb4738a95272
 #EXTINF: -1 tvg-name="CMM TV" tvg-logo="https://pics.filmaffinity.com/Alimaanas-256843829-large.jpg" group-title="Peliculas Acestream",Alimañas (2024)
 http://127.0.0.1:6878/ace/getstream?id=529d3cf9b011cd4573686b1722b08b37e4169aca
-#EXTINF: -1 tvg-name="CMM TV" tvg-logo="https://pics.filmaffinity.com/Champions-312832686-large.jpg" group-title="Peliculas Acestream",Champions (2023)
+#EXTINF: -1 tvg-name="CMM TV" tvg-logo="https://fr.web.img2.acsta.net/pictures/23/02/27/09/25/2532473.jpg" group-title="Peliculas Acestream",Champions (2023)
 http://127.0.0.1:6878/ace/getstream?id=43e4bd5cbc5b3344c091a6162c87b7b7b6d50a48
 #EXTINF: -1 tvg-name="CMM TV" tvg-logo="https://image.tmdb.org/t/p/original/kI2wF5PNWjAmh6uqpPxTt8PWOcq.jpg" group-title="Peliculas Acestream",Como Dios manda (2023)
 http://127.0.0.1:6878/ace/getstream?id=bef7091a5ce7b98e7946cefe06be19c944946c35
