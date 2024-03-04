@@ -32,11 +32,11 @@ http://127.0.0.1:6878/ace/getstream?id=a3bca895c58d3fc7d5e4259d3d5e3cf0291d1914
 http://127.0.0.1:6878/ace/getstream?id=e33e666c393ef04ebe99a9b92135d2e0b48c4d10
 #EXTINF: -1 tvg-id="DAZN LaLiga 2" tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2022/07/dazn-laliga-2-color.png?fit=440%2C264&ssl=1" group-title="LALIGA EA", Dazn LaLiga 2 720 
 http://127.0.0.1:6878/ace/getstream?id=05241e69091eedbb354f2651d30c83f40d1bb653
-#EXTINF: -1 tvg-id="DAZN LaLiga 3" tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2022/07/dazn-laliga-3-color.png?fit=440%2C264&ssl=1" group-title="LALIGA EA", Dazn LaLiga 3 720 
+#EXTINF: -1 tvg-id="DAZN LaLiga 3" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/bt971n1685180869.png" group-title="LALIGA EA", Dazn LaLiga 3 720 
 http://127.0.0.1:6878/ace/getstream?id=8c71f0e0a5476e10950fc827f9d2a507340aba74
-#EXTINF: -1 tvg-id="DAZN LaLiga 4" tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2022/07/dazn-laliga-4-color.png?fit=440%2C264&ssl=1" group-title="LALIGA EA", Dazn LaLiga 4 720 
+#EXTINF: -1 tvg-id="DAZN LaLiga 4" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/adll3m1685181030.png" group-title="LALIGA EA", Dazn LaLiga 4 720 
 http://127.0.0.1:6878/ace/getstream?id=2792a8a5f4a3f53cd72dec377a2639cd12a6973e
-#EXTINF: -1 tvg-id="DAZN LaLiga 5" tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2022/07/dazn-laliga-5-color.png?fit=440%2C264&ssl=1" group-title="LALIGA EA", Dazn LaLiga 5 720 
+#EXTINF: -1 tvg-id="DAZN LaLiga 5" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/4qm3dw1692437861.png" group-title="LALIGA EA", Dazn LaLiga 5 720 
 http://127.0.0.1:6878/ace/getstream?id=99e544cddbee13798e854c1009ee7d1a93fdedf7
 #EXTINF: -1 tvg-id="LaLiga+ BARES" tvg-logo="https://tecnohoreca.com/wp-content/uploads/2021/02/208-laliga-tv-bar.png" group-title="LALIGA EA", LaLiga+ BARES
 http://127.0.0.1:6878/ace/getstream?id=aa82e7d4f03061f2144a2f4be22f2e2210d42280
