@@ -246,11 +246,11 @@ http://127.0.0.1:6878/ace/getstream?id=f37c30b42c4ce0999f8511a42a0c2a227708a2b8
 http://127.0.0.1:6878/ace/getstream?id=8d938dc5f1bcf0d111e1b3defed8d8ef73f7e70c
 #EXTINF: -1 tvg-name="CMM TV" tvg-logo="https://www.movieposters.com/cdn/shop/files/boys_in_the_boat_480x.progressive.jpg" group-title="Peliculas Acestream", Remando como un sólo hombre (2023)
 http://127.0.0.1:6878/ace/getstream?id=d1589664c9238d0d55710bc4586dcbf0229f0074
-#EXTINF: -1 tvg-name="CMM TV" tvg-logo="https://pics.filmaffinity.com/Un_largo_viaje-261577289-large.jpg" group-title="Peliculas Acestream", Un largo viaje (2023)
+#EXTINF: -1 tvg-name="CMM TV" tvg-logo="A9:35:E9:08:0B:78" group-title="Peliculas Acestream", Un largo viaje (2023)
 http://127.0.0.1:6878/ace/getstream?id=3ad6a4fa9353e68043b7e8bc54f0f420382366a1
 #EXTINF: -1 tvg-name="CMM TV" tvg-logo="https://pics.filmaffinity.com/Increaible_pero_cierto-220688971-large.jpg" group-title="Peliculas Acestream", Increíble pero cierto (2024)
 http://127.0.0.1:6878/ace/getstream?id=a0dd736fb393099cd043f416e61f866909e319ce
-#EXTINF: -1 tvg-name="CMM TV" tvg-logo="https://pics.filmaffinity.com/Paalido-924691451-large.jpg" group-title="Peliculas Acestream", Palido - Due Justice (2024)
+#EXTINF: -1 tvg-name="CMM TV" tvg-logo="https://static1.colliderimages.com/wordpress/wp-content/uploads/2023/10/due-justice-poster.jpeg" group-title="Peliculas Acestream", Palido - Due Justice (2024)
 http://127.0.0.1:6878/ace/getstream?id=751d1fafe300e930fdf57593b826718ccca0234f
 #EXTINF: -1 tvg-name="CMM TV" tvg-logo="https://pics.filmaffinity.com/Lluvia_aacida-477650327-large.jpg" group-title="Peliculas Acestream", Lluvia Acida (2024)
 http://127.0.0.1:6878/ace/getstream?id=d306d8be4c26029a148bc170c4247f7f2cf4d25c
