@@ -242,7 +242,7 @@ http://127.0.0.1:6878/ace/getstream?id=5dc53ddee85d17cf1d2186ebe688d09e8fb615cc
 http://127.0.0.1:6878/ace/getstream?id=793d6686d0db6512ade8d9f0ac24c2c8ff6a0e81
 #EXTINF: -1 tvg-name="CMM TV" tvg-logo="https://pics.filmaffinity.com/Lift_Un_robo_de_primera_clase-500114909-large.jpg" group-title="Peliculas Acestream", Lift: Un robo de primera clase (2024)
 http://127.0.0.1:6878/ace/getstream?id=f37c30b42c4ce0999f8511a42a0c2a227708a2b8
-#EXTINF: -1 tvg-name="CMM TV" tvg-logo="https://media.s-bol.com/RDx5DDMB51DL/822ylZ3/550x785.jpg" group-title="Peliculas Acestream", Piscina infinita (2023)
+#EXTINF: -1 tvg-name="CMM TV" tvg-logo="https://image.tmdb.org/t/p/original/kOFKpWdNu8Q14PyOUL87LcNpNZD.jpg" group-title="Peliculas Acestream", Piscina infinita (2023)
 http://127.0.0.1:6878/ace/getstream?id=8d938dc5f1bcf0d111e1b3defed8d8ef73f7e70c
 #EXTINF: -1 tvg-name="CMM TV" tvg-logo="https://pics.filmaffinity.com/Remando_como_un_solo_hombre-275711444-large.jpg" group-title="Peliculas Acestream", Remando como un sólo hombre (2023)
 http://127.0.0.1:6878/ace/getstream?id=d1589664c9238d0d55710bc4586dcbf0229f0074
