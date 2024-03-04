@@ -234,7 +234,7 @@ http://127.0.0.1:6878/ace/getstream?id=3b664f3dfc383adf28b674d43b067ba24cf167d1
 http://127.0.0.1:6878/ace/getstream?id=0d46352522f1a7f49ed78a2b5b6c9e3b440d939a
 #EXTINF: -1 tvg-name="CMM TV" tvg-logo="https://pics.filmaffinity.com/El_cuco-788052686-large.jpg" group-title="Peliculas Acestream", El cuco (2023)
 http://127.0.0.1:6878/ace/getstream?id=501feb26c26f49537688f813aca21ff7cf358186
-#EXTINF: -1 tvg-name="CMM TV" tvg-logo="https://pics.filmaffinity.com/El_valle_de_la_esperanza-904565299-large.jpg" group-title="Peliculas Acestream", El Valle de la esperanza (2023)
+#EXTINF: -1 tvg-name="CMM TV" tvg-logo="https://hips.hearstapps.com/hmg-prod/images/el-valle-de-la-esperanza-poster-64fae9655095a.jpg" group-title="Peliculas Acestream", El Valle de la esperanza (2023)
 http://127.0.0.1:6878/ace/getstream?id=a568ea1aa655a8956508149b30d65ae441fa8d38
 #EXTINF: -1 tvg-name="CMM TV" tvg-logo="https://pics.filmaffinity.com/El_viaje_de_Rickey_Hill-702310853-large.jpg" group-title="Peliculas Acestream", El viaje de Rickey Hill (2023)
 http://127.0.0.1:6878/ace/getstream?id=5dc53ddee85d17cf1d2186ebe688d09e8fb615cc
