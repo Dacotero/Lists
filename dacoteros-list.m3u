@@ -238,7 +238,7 @@ http://127.0.0.1:6878/ace/getstream?id=501feb26c26f49537688f813aca21ff7cf358186
 http://127.0.0.1:6878/ace/getstream?id=a568ea1aa655a8956508149b30d65ae441fa8d38
 #EXTINF: -1 tvg-name="CMM TV" tvg-logo="https://res.cloudinary.com/sagacity/image/upload/c_crop,h_985,w_758,x_0,y_0/c_limit,dpr_auto,f_auto,fl_lossy,q_80,w_1080/The_Hill__2021__k1ekzn.jpg" group-title="Peliculas Acestream", El viaje de Rickey Hill (2023)
 http://127.0.0.1:6878/ace/getstream?id=5dc53ddee85d17cf1d2186ebe688d09e8fb615cc
-#EXTINF: -1 tvg-name="CMM TV" tvg-logo="https://pics.filmaffinity.com/Las_dos_caras_de_la_justicia-822083137-large.jpg" group-title="Peliculas Acestream", Las dos caras de la justicia (2023)
+#EXTINF: -1 tvg-name="CMM TV" tvg-logo="https://www.aceprensa.com/wp-content/uploads/2023/09/las-dos-caras-de-la-justicia-2.jpg" group-title="Peliculas Acestream", Las dos caras de la justicia (2023)
 http://127.0.0.1:6878/ace/getstream?id=793d6686d0db6512ade8d9f0ac24c2c8ff6a0e81
 #EXTINF: -1 tvg-name="CMM TV" tvg-logo="https://pics.filmaffinity.com/Lift_Un_robo_de_primera_clase-500114909-large.jpg" group-title="Peliculas Acestream", Lift: Un robo de primera clase (2024)
 http://127.0.0.1:6878/ace/getstream?id=f37c30b42c4ce0999f8511a42a0c2a227708a2b8
