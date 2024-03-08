@@ -213,7 +213,7 @@ http://127.0.0.1:6878/ace/getstream?id=822654b2c0db24d1de149cb21fdd44a3b968fbfa
 #EXTINF: -1 tvg-id= "UFC GENERIC" tvg-logo= "https://www.thesportsdb.com/images/media/team/badge/3r7kfv1555339504.png" group-title="UFC", UFC GENERIC 
 http://127.0.0.1:6878/ace/getstream?id=d6cdd724a97fcf851e7ef641c28d6beb8663496e
 #EXTINF: -1 tvg-id= "BOXING CHANNEL" tvg-logo= "https://www.thesportsdb.com/images/media/team/badge/3r7kfv1555339504.png" group-title="UFC", BOXING CHANNEL 
-http://127.0.0.1:6878/ace/getstream?id=822654b2c0db24d1de149cb21fdd44a3b968fbfa
+http://127.0.0.1:6878/ace/getstream?id=a203f6b935a8ad8659c4c76c1d9c13afa6368ef2
 #EXTINF: -1 tvg-id="LA 1" tvg-logo="https://i.ibb.co/swhGnw4/La1.jpg" group-title="TDT", LA 1
 https://ztnr.rtve.es/ztnr/1688877.m3u8
 #EXTINF: -1 tvg-id="LA 2" tvg-logo="https://i.postimg.cc/13XJ1k3Y/Logo-La2.png" group-title="TDT", LA 2
