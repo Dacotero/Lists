@@ -149,7 +149,7 @@ http://127.0.0.1:6878/ace/getstream?id=bb2976a6e2296ffa562c91d761db5460f325bd1a
 #EXTINF: -1 tvg-id="Movistar Deportes 1080" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/670px-Movistar_Deportes.svg.png?to=crop&type=webp&r=540x405&q=85" group-title="Movistar deportes", M+ Deportes
 http://127.0.0.1:6878/ace/getstream?id=d00223931b1854163e24c5c22475015d7d45c112
 #EXTINF: -1 tvg-id="Movistar Deportes 720" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/670px-Movistar_Deportes.svg.png?to=crop&type=webp&r=540x405&q=85" group-title="Movistar deportes", M+ Deportes 720
-http://127.0.0.1:6878/ace/getstream?id=77d83a79afcf6c865289cd8cdb42223cd4b6501c
+http://127.0.0.1:6878/ace/getstream?id=e5fa927d9a017f4523fdb62774a0aec457985bfa
 #EXTINF: -1 tvg-id="Movistar Deportes 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/670px-Movistar_Deportes.svg.png?to=crop&type=webp&r=540x405&q=85" group-title="Movistar deportes", M+ Deportes 2
 http://127.0.0.1:6878/ace/getstream?id=e6f06d697f66a8fa606c4d61236c24b0d604d917
 #EXTINF: -1 tvg-id="Movistar Deportes 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Movistar_Deportes.svg/670px-Movistar_Deportes.svg.png?to=crop&type=webp&r=540x405&q=85" group-title="Movistar deportes", M+ Deportes 3
