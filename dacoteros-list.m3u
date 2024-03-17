@@ -208,8 +208,8 @@ http://127.0.0.1:6878/ace/getstream?id=5f966c123759de46dff29c379266b7a403452033
 http://127.0.0.1:6878/ace/getstream?id=fc5089d8e1519872fdf951779ccbca913acc9bce
 #EXTINF: -1 tvg-id="UFC ESPANOL"ctvg-logo= "https://www.thesportsdb.com/images/media/team/badge/3r7kfv1555339504.png" group-title="UFC", UFC ESPANOL
 http://127.0.0.1:6878/ace/getstream?id=2d4b53402ff6158ec5aa4b38a80a773b5e00da0d
-#EXTINF: -1 tvg-id="UFC RUSSIAN" tvg-logo= "https://ntvplus.tv/files/image/02/31/28/3z9.png" group-title="UFC", UFC RUSSIAN
-https://cdn-cf.fite.tv/linear/fite247/4038629_fite-247/live_480/chunks.m3u8
+#EXTINF: -1 tvg-id="UFC USA" tvg-logo= "https://ntvplus.tv/files/image/02/31/28/3z9.png" group-title="UFC", UFC USA
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ebc8688f3697d00072f7cf8/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c854aa0-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=31ed263b-b5a7-46ae-aea6-02a7165119c3&userId=&serverSideAds=true
 #EXTINF: -1 tvg-id= "UFC GENERIC" tvg-logo= "https://www.thesportsdb.com/images/media/team/badge/3r7kfv1555339504.png" group-title="UFC", UFC GENERIC 
 http://127.0.0.1:6878/ace/getstream?id=d6cdd724a97fcf851e7ef641c28d6beb8663496e
 #EXTINF: -1 tvg-id= "BOXING CHANNEL" tvg-logo= "https://www.thesportsdb.com/images/media/team/badge/3r7kfv1555339504.png" group-title="UFC", BOXING CHANNEL 
