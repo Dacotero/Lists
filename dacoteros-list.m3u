@@ -9,7 +9,7 @@ http://127.0.0.1:6878/ace/getstream?id=1969c27658d4c8333ab2c0670802546121a774a5
 #EXTINF: -1 tvg-id="M+ LaLiga TV" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/23v0bw1692438187.png" group-title="LALIGA EA", M+ LALIGA TV 720
 http://127.0.0.1:6878/ace/getstream?id=f031f5728b32f6089dda28edebe990cf198108d8
 #EXTINF: -1 tvg-id="M+ LaLiga TV 2" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/y8bezh1692969735.png" group-title="LALIGA EA", M+ LaLiga TV 2 1080 
-http://127.0.0.1:6878/ace/getstream?id=26029f72a4ca831d09deefe89534818db1d105bc
+http://127.0.0.1:6878/ace/getstream?id=26029f72a4ca831d09deefe89534818db1d105bccose
 #EXTINF: -1 tvg-id="M+ LaLiga TV 2" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/y8bezh1692969735.png" group-title="LALIGA EA", M+ LaLiga TV 2 720 
 http://127.0.0.1:6878/ace/getstream?id=80126b240f3e4e004754fd8f8103e857ab2556a0
 #EXTINF: -1 tvg-id="M+ LaLiga TV 3" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/Movistar_LaLiga_3.png" group-title="LALIGA EA", M+ LaLiga TV 3 1080 
@@ -358,7 +358,7 @@ http://127.0.0.1:6878/ace/getstream?id=c36549faf408940e1a2d673767260f11d44ff711
 http://127.0.0.1:6878/ace/getstream?id=ca7715c0d71a2f77121703b8fae2d7d1f6372b86
 #EXTINF: -1 tvg-name="CMM TV" tvg-logo="https://th.bing.com/th/id/OIP.fdnUna59hwL1Uin19OMzUwAAAA?rs=1&pid=ImgDetMain" group-title="Peliculas Acestream",Me encontrarás en lo profundo del abismo (2023)
 http://127.0.0.1:6878/ace/getstream?id=f5f3d91b00a8dd2ec518547e69f7a7e31db9092c
-#EXTINF: -1 tvg-name="CMM TV" tvg-logo="https://www.moviehdfree.net/wp-content/uploads/2023/10/Dark-Harvest-2023-e1697546844594.webpg" group-title="Peliculas Acestream",COSECHA OSCURA (2023)
+#EXTINF: -1 tvg-name="CMM TV" tvg-logo="https://pics.filmaffinity.com/dark_harvest-901698076-mmed.jpg" group-title="Peliculas Acestream",COSECHA OSCURA (2023)
 http://127.0.0.1:6878/ace/getstream?id=ec01f2b4174a02f964985585c715f1cd7af5060f
 #EXTINF: -1 tvg-name="CMM TV" tvg-logo="https://sun9-58.userapi.com/impg/06A-z5CFSdB2g4MDqfZwOZVxCnI_3E4ndaxDMQ/3eYFRDOP3GE.jpg?size=300x450&quality=95&sign=5cef3c446f886341b8bf139cde9d2899&type=album" group-title="Peliculas Acestream",Winnie the pooh  -  miel y sangre (2023)
 http://127.0.0.1:6878/ace/getstream?id=a61cc71ecced9a4f28d9c4a76aea5c79df878635
