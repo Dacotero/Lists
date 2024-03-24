@@ -380,5 +380,7 @@ http://127.0.0.1:6878/ace/getstream?id=8bd3010b192c88b5fdcfc48d903f5106da41ef50
 http://127.0.0.1:6878/ace/getstream?id=9c26a8d9be5b681ba95303474a3f41bf73ef2fb5
 #EXTINF: -1 tvg-name="CMM TV" tvg-logo="https://pics.filmaffinity.com/De_perdidos_a_Raio-791997757-large.jpg" group-title="Peliculas Acestream",De perdidos a Río (2023)
 http://127.0.0.1:6878/ace/getstream?id=5f4e081c457af2f20e5afb727a6136746e5d7577
-#EXTINF: -1 tvg-name="CMM TV" tvg-logo="https://pics.filmaffinity.com/argylle-363847653-mmed.jpg" group-title="Peliculas Acestream",De perdidos a Río (2023)
+#EXTINF: -1 tvg-name="CMM TV" tvg-logo="https://pics.filmaffinity.com/argylle-363847653-mmed.jpg" group-title="Peliculas Acestream",Argylle (2024)
 http://127.0.0.1:6878/ace/getstream?id=6790b58185abe94d811fbd45d6597c29833802d7
+#EXTINF: -1 tvg-name="CMM TV" tvg-logo="https://pics.filmaffinity.com/heist_88-587686238-mmed.jpg" group-title="Peliculas Acestream",Atraco 88 (2023)
+http://127.0.0.1:6878/ace/getstream?id=56427ea80f71adb090c64ef0771171a6c9c2d8fa
