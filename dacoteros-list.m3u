@@ -322,7 +322,7 @@ http://127.0.0.1:6878/ace/getstream?id=b12cc9ed9ce9cd7cc9f981ce0b1fea127e4d1632
 http://127.0.0.1:6878/ace/getstream?id=9a27bbacc98e50412fa1e71df9574c068da7a247
 #EXTINF: -1 tvg-name="CMM TV" tvg-logo="https://pics.filmaffinity.com/El_duelo-352434270-large.jpg" group-title="Peliculas Acestream", El duelo (2023)
 http://127.0.0.1:6878/ace/getstream?id=628ffc060cb6b43ce5b3972369967da0cd2f0555
-#EXTINF: -1 tvg-name="CMM TV" tvg-logo="https://pics.filmaffinity.com/Mi_cuanado_es_un_vampiro-174514379-large.jpg" group-title="Peliculas Acestream", Mi cuñado es un vampiro (2023)
+#EXTINF: -1 tvg-name="CMM TV" tvg-logo="https://image.tmdb.org/t/p/w342/tDKSXWeoAs9FhIW0KDDBvdEo1rR.jpg" group-title="Peliculas Acestream", Mi cuñado es un vampiro (2023)
 http://127.0.0.1:6878/ace/getstream?id=88724a6223e8e826a14f8964b622d7bdb0f05b6b
 #EXTINF: -1 tvg-name="CMM TV" tvg-logo="https://pics.filmaffinity.com/Perder_es_ganar_un_poco-856006753-large.jpg" group-title="Peliculas Acestream", Perder es ganar un poco (2023)
 http://127.0.0.1:6878/ace/getstream?id=622e7c0b4b0443cdef718c5819b5c1edaa122e0d
