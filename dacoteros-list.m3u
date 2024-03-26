@@ -226,6 +226,10 @@ https://atres-live.atresmedia.com/b661ebeea11ecfa5dc7ce573790b5680e876f046_ES_17
 http://127.0.0.1:6878/ace/getstream?id=e8eec35f4662be1af96963245bfa88fb7d0242c4
 #EXTINF: -1 tvg-id="TeleCinco" tvg-logo= "https://www.movistarplus.es/recorte/m-NEO/canal/T5.png" group-title="TDT",Telecinco
 https://crcdn09.adnxs-simple.com/creative20/p/13337/2024/2/20/54729052/fbd1bc15-ee05-433d-9cb5-aede0c4784e7_768_432_500k.webm
+#EXTINF: -1 tvg-name="CMM TV" tvg-logo="https://pics.filmaffinity.com/code_8-684954213-mmed.jpg" group-title="Peliculas Acestream",Code 8 parte 1 (2019)
+http://127.0.0.1:6878/ace/getstream?id=48d86b23bc839cdcd76b073e0608e9b3435ede30
+#EXTINF: -1 tvg-name="CMM TV" tvg-logo="https://pics.filmaffinity.com/code_8_part_ii-844983389-mmed.jpg" group-title="Peliculas Acestream",Code 8 parte 2 (2024)
+http://127.0.0.1:6878/ace/getstream?id=de51556ce0199fc467e2044fbed06179fdf9b3d5
 #EXTINF: -1 tvg-name="CMM TV" tvg-logo="https://pics.filmaffinity.com/mean_girls-755875269-mmed.jpg" group-title="Peliculas Acestream",Chicas Malas (2024)
 http://127.0.0.1:6878/ace/getstream?id=48d86b23bc839cdcd76b073e0608e9b3435ede30
 #EXTINF: -1 tvg-name="CMM TV" tvg-logo="https://pics.filmaffinity.com/argylle-363847653-mmed.jpg" group-title="Peliculas Acestream",Argylle (2024)
