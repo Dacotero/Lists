@@ -226,190 +226,189 @@ https://atres-live.atresmedia.com/b661ebeea11ecfa5dc7ce573790b5680e876f046_ES_17
 http://127.0.0.1:6878/ace/getstream?id=e8eec35f4662be1af96963245bfa88fb7d0242c4
 #EXTINF: -1 tvg-id="TeleCinco" tvg-logo= "https://www.movistarplus.es/recorte/m-NEO/canal/T5.png" group-title="TDT",Telecinco
 https://crcdn09.adnxs-simple.com/creative20/p/13337/2024/2/20/54729052/fbd1bc15-ee05-433d-9cb5-aede0c4784e7_768_432_500k.webm
-#EXTINF: -1 tvg-name="CMM TV" tvg-logo="https://pics.filmaffinity.com/under_the_boardwalk-318353085-mmed.jpg" group-title="Peliculas Acestream",Bajo el Muelle (2023)
+#EXTINF: -1 tvg-name="STREAM" tvg-logo="https://pics.filmaffinity.com/under_the_boardwalk-318353085-mmed.jpg" group-title="Peliculas Acestream",Bajo el Muelle (2023)
 http://127.0.0.1:6878/ace/getstream?id=885538287bcde919a91d920f74c11545ef023798
-#EXTINF: -1 tvg-name="CMM TV" tvg-logo="https://pics.filmaffinity.com/renfield-758566468-mmed.jpg" group-title="Peliculas Acestream",Renfield (2023)
+#EXTINF: -1 tvg-name="STREAM" tvg-logo="https://pics.filmaffinity.com/renfield-758566468-mmed.jpg" group-title="Peliculas Acestream",Renfield (2023)
 http://127.0.0.1:6878/ace/getstream?id=57b327a0f95f65298f063170133b8fab8988ba0a
-#EXTINF: -1 tvg-name="CMM TV" tvg-logo="https://navarra.definde.com/sites/default/files/styles/cartelera_movie_cover/public/movie-covers/ocho_apellidos_marroquis.jpg" group-title="Peliculas Acestream",Ocho Apellidos Marroquís (2024)
+#EXTINF: -1 tvg-name="STREAM" tvg-logo="https://navarra.definde.com/sites/default/files/styles/cartelera_movie_cover/public/movie-covers/ocho_apellidos_marroquis.jpg" group-title="Peliculas Acestream",Ocho Apellidos Marroquís (2024)
 http://127.0.0.1:6878/ace/getstream?id=fadd2db4e1fcec19278fc520dd5f5b45668e84fc
-#EXTINF: -1 tvg-name="CMM TV" tvg-logo="https://i.ibb.co/H71xYcd/rsz-image0.jpg" group-title="Peliculas Acestream",Wonka (2023)
+#EXTINF: -1 tvg-name="STREAM" tvg-logo="https://i.ibb.co/H71xYcd/rsz-image0.jpg" group-title="Peliculas Acestream",Wonka (2023)
 http://127.0.0.1:6878/ace/getstream?id=1d0b4a8bf7f94d67a2136de5027106c5f95d447e
-#EXTINF: -1 tvg-name="CMM TV" tvg-logo="https://pics.filmaffinity.com/slotherhouse-361689783-mmed.jpg" group-title="Peliculas Acestream",Perezoso Amoroso (2024)
+#EXTINF: -1 tvg-name="STREAM" tvg-logo="https://pics.filmaffinity.com/slotherhouse-361689783-mmed.jpg" group-title="Peliculas Acestream",Perezoso Amoroso (2024)
 http://127.0.0.1:6878/ace/getstream?id=b6f3f4e16cc7171258e09023ea862d9d57a611ed
-#EXTINF: -1 tvg-name="CMM TV" tvg-logo="https://pics.filmaffinity.com/operation_fortune_ruse_de_guerre-536321205-mmed.jpg" group-title="Peliculas Acestream",Operacion Fortune (2023)
+#EXTINF: -1 tvg-name="STREAM" tvg-logo="https://pics.filmaffinity.com/operation_fortune_ruse_de_guerre-536321205-mmed.jpg" group-title="Peliculas Acestream",Operacion Fortune (2023)
 http://127.0.0.1:6878/ace/getstream?id=71d0a1b69384cd6004c209f7d23de32a4f4abc8e
-#EXTINF: -1 tvg-name="CMM TV" tvg-logo="https://pics.filmaffinity.com/road_house-840869696-mmed.jpg" group-title="Peliculas Acestream",Road House (2024)
+#EXTINF: -1 tvg-name="STREAM" tvg-logo="https://pics.filmaffinity.com/road_house-840869696-mmed.jpg" group-title="Peliculas Acestream",Road House (2024)
 http://127.0.0.1:6878/ace/getstream?id=80f958a74829d3151708104261cff1027d4f7dd9
-#EXTINF: -1 tvg-name="CMM TV" tvg-logo="https://pics.filmaffinity.com/ricky_stanicky-916228200-mmed.jpg" group-title="Peliculas Acestream",Ricky Stanicky (2024)
+#EXTINF: -1 tvg-name="STREAM" tvg-logo="https://pics.filmaffinity.com/ricky_stanicky-916228200-mmed.jpg" group-title="Peliculas Acestream",Ricky Stanicky (2024)
 http://127.0.0.1:6878/ace/getstream?id=756e64255a8c01510b9a9009dd685671f6cd4da4
-#EXTINF: -1 tvg-name="CMM TV" tvg-logo="https://pics.filmaffinity.com/damsel-226701907-mmed.jpg" group-title="Peliculas Acestream",Damsel (2024)
+#EXTINF: -1 tvg-name="STREAM" tvg-logo="https://pics.filmaffinity.com/damsel-226701907-mmed.jpg" group-title="Peliculas Acestream",Damsel (2024)
 http://127.0.0.1:6878/ace/getstream?id=e1205196da751050073fb10e4a24c21ccdd92cf0
-#EXTINF: -1 tvg-name="CMM TV" tvg-logo="https://pics.filmaffinity.com/sympathy_for_the_devil-569882598-mmed.jpg" group-title="Peliculas Acestream",Simpathy for the devil (2023)
+#EXTINF: -1 tvg-name="STREAM" tvg-logo="https://pics.filmaffinity.com/sympathy_for_the_devil-569882598-mmed.jpg" group-title="Peliculas Acestream",Simpathy for the devil (2023)
 http://127.0.0.1:6878/ace/getstream?id=9ea973b489ea891b924fc315edd8f603b2455e0f
-#EXTINF: -1 tvg-name="CMM TV" tvg-logo="https://pics.filmaffinity.com/spaceman-521831305-mmed.jpg" group-title="Peliculas Acestream",El Astronauta (2024)
+#EXTINF: -1 tvg-name="STREAM" tvg-logo="https://pics.filmaffinity.com/spaceman-521831305-mmed.jpg" group-title="Peliculas Acestream",El Astronauta (2024)
 http://127.0.0.1:6878/ace/getstream?id=7bae096111cc835a99f1c933bf0e22a93bbb66b1
-#EXTINF: -1 tvg-name="CMM TV" tvg-logo="https://pics.filmaffinity.com/code_8-684954213-mmed.jpg" group-title="Peliculas Acestream",Code 8 parte 1 (2019)
+#EXTINF: -1 tvg-name="STREAM" tvg-logo="https://pics.filmaffinity.com/code_8-684954213-mmed.jpg" group-title="Peliculas Acestream",Code 8 parte 1 (2019)
 http://127.0.0.1:6878/ace/getstream?id=48d86b23bc839cdcd76b073e0608e9b3435ede30
-#EXTINF: -1 tvg-name="CMM TV" tvg-logo="https://pics.filmaffinity.com/code_8_part_ii-844983389-mmed.jpg" group-title="Peliculas Acestream",Code 8 parte 2 (2024)
+#EXTINF: -1 tvg-name="STREAM" tvg-logo="https://pics.filmaffinity.com/code_8_part_ii-844983389-mmed.jpg" group-title="Peliculas Acestream",Code 8 parte 2 (2024)
 http://127.0.0.1:6878/ace/getstream?id=de51556ce0199fc467e2044fbed06179fdf9b3d5
-#EXTINF: -1 tvg-name="CMM TV" tvg-logo="https://pics.filmaffinity.com/mean_girls-755875269-mmed.jpg" group-title="Peliculas Acestream",Chicas Malas (2024)
+#EXTINF: -1 tvg-name="STREAM" tvg-logo="https://pics.filmaffinity.com/mean_girls-755875269-mmed.jpg" group-title="Peliculas Acestream",Chicas Malas (2024)
 http://127.0.0.1:6878/ace/getstream?id=48d86b23bc839cdcd76b073e0608e9b3435ede30
-#EXTINF: -1 tvg-name="CMM TV" tvg-logo="https://pics.filmaffinity.com/argylle-363847653-mmed.jpg" group-title="Peliculas Acestream",Argylle (2024)
+#EXTINF: -1 tvg-name="STREAM" tvg-logo="https://pics.filmaffinity.com/argylle-363847653-mmed.jpg" group-title="Peliculas Acestream",Argylle (2024)
 http://127.0.0.1:6878/ace/getstream?id=6790b58185abe94d811fbd45d6597c29833802d7
-#EXTINF: -1 tvg-name="CMM TV" tvg-logo="https://pics.filmaffinity.com/heist_88-587686238-mmed.jpg" group-title="Peliculas Acestream",Atraco 88 (2023)
+#EXTINF: -1 tvg-name="STREAM" tvg-logo="https://pics.filmaffinity.com/heist_88-587686238-mmed.jpg" group-title="Peliculas Acestream",Atraco 88 (2023)
 http://127.0.0.1:6878/ace/getstream?id=56427ea80f71adb090c64ef0771171a6c9c2d8fa
-#EXTINF: -1 tvg-name="CMM TV" tvg-logo="https://th.bing.com/th/id/OIP.I2UFDy2xQQnLCRlA4BG1tAAAAA?rs=1&pid=ImgDetMain" group-title="Peliculas Acestream", Madame Web (2024)
+#EXTINF: -1 tvg-name="STREAM" tvg-logo="https://th.bing.com/th/id/OIP.I2UFDy2xQQnLCRlA4BG1tAAAAA?rs=1&pid=ImgDetMain" group-title="Peliculas Acestream", Madame Web (2024)
 http://127.0.0.1:6878/ace/getstream?id=71750adc8e227fc50e7c511068606390f406bfb5
-#EXTINF: -1 tvg-name="CMM TV" tvg-logo="https://www.mubis.es/media/releases/15537/326000/venganza-en-las-vegas-blu-ray-l_cover.jpg" group-title="Peliculas Acestream", Venganza en Las Vegas (2023)
+#EXTINF: -1 tvg-name="STREAM" tvg-logo="https://www.mubis.es/media/releases/15537/326000/venganza-en-las-vegas-blu-ray-l_cover.jpg" group-title="Peliculas Acestream", Venganza en Las Vegas (2023)
 http://127.0.0.1:6878/ace/getstream?id=b26164ed4c378ee1176bd45956f5036954f038a8
-#EXTINF: -1 tvg-name="CMM TV" tvg-logo="https://es.web.img3.acsta.net/pictures/23/09/20/11/20/0656635.jpg" group-title="Peliculas Acestream", Vive dentro (2024)
+#EXTINF: -1 tvg-name="STREAM" tvg-logo="https://es.web.img3.acsta.net/pictures/23/09/20/11/20/0656635.jpg" group-title="Peliculas Acestream", Vive dentro (2024)
 http://127.0.0.1:6878/ace/getstream?id=d2ecc5f481fcc3af3ae9a1fa954d8b1e75c51a1b
-#EXTINF: -1 tvg-name="CMM TV" tvg-logo="https://th.bing.com/th/id/OIP.iB7hmJU_DLAuUKGE5WMsNwAAAA?rs=1&pid=ImgDetMain" group-title="Peliculas Acestream", Retribution (2023)
+#EXTINF: -1 tvg-name="STREAM" tvg-logo="https://th.bing.com/th/id/OIP.iB7hmJU_DLAuUKGE5WMsNwAAAA?rs=1&pid=ImgDetMain" group-title="Peliculas Acestream", Retribution (2023)
 http://127.0.0.1:6878/ace/getstream?id=4cd9f15d8f222dd5fb0e8970649fad56a1099bcb
-#EXTINF: -1 tvg-name="CMM TV" tvg-logo="https://www.christianactivities.com/wp-content/uploads/2023/07/Sound-of-freedom-203x300.jpg" group-title="Peliculas Acestream", Sound of Freedom (2023)
+#EXTINF: -1 tvg-name="STREAM" tvg-logo="https://www.christianactivities.com/wp-content/uploads/2023/07/Sound-of-freedom-203x300.jpg" group-title="Peliculas Acestream", Sound of Freedom (2023)
 http://127.0.0.1:6878/ace/getstream?id=1682abfbe093a0c05aa08adc1bf21d2bf7902020
-#EXTINF: -1 tvg-name="CMM TV" tvg-logo="https://de.web.img3.acsta.net/c_310_420/pictures/23/12/07/07/17/5270788.jpg" group-title="Peliculas Acestream", Los Segundones (2024)
+#EXTINF: -1 tvg-name="STREAM" tvg-logo="https://de.web.img3.acsta.net/c_310_420/pictures/23/12/07/07/17/5270788.jpg" group-title="Peliculas Acestream", Los Segundones (2024)
 http://127.0.0.1:6878/ace/getstream?id=1e50c75f095ebf125923dc564fb774d28a3b1b62
-#EXTINF: -1 tvg-name="CMM TV" tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/xTgUxwITa4aVQfAgEczDFrZ6mfw.jpg" group-title="Peliculas Acestream", The Road Dance (2024)
+#EXTINF: -1 tvg-name="STREAM" tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/xTgUxwITa4aVQfAgEczDFrZ6mfw.jpg" group-title="Peliculas Acestream", The Road Dance (2024)
 http://127.0.0.1:6878/ace/getstream?id=1398b004bbede5dbda08262e1e73417ef2c30953
-#EXTINF: -1 tvg-name="CMM TV" tvg-logo="https://image.tmdb.org/t/p/original/rOVuIhWelG9TgEI2YIWNkIQW4ws.jpg" group-title="Peliculas Acestream", Una sociedad educada (2024)
+#EXTINF: -1 tvg-name="STREAM" tvg-logo="https://image.tmdb.org/t/p/original/rOVuIhWelG9TgEI2YIWNkIQW4ws.jpg" group-title="Peliculas Acestream", Una sociedad educada (2024)
 http://127.0.0.1:6878/ace/getstream?id=3b664f3dfc383adf28b674d43b067ba24cf167d1
-#EXTINF: -1 tvg-name="CMM TV" tvg-logo="https://media.s-bol.com/7wZMXpkx93Jr/gw0xwl/550x744.jpg" group-title="Peliculas Acestream", De vuelta en el Strip (2023)
+#EXTINF: -1 tvg-name="STREAM" tvg-logo="https://media.s-bol.com/7wZMXpkx93Jr/gw0xwl/550x744.jpg" group-title="Peliculas Acestream", De vuelta en el Strip (2023)
 http://127.0.0.1:6878/ace/getstream?id=0d46352522f1a7f49ed78a2b5b6c9e3b440d939a
-#EXTINF: -1 tvg-name="CMM TV" tvg-logo="https://th.bing.com/th/id/OIP.wZ8ZMfhFaz09vPb97to74wAAAA?rs=1&pid=ImgDetMain" group-title="Peliculas Acestream", El cuco (2023)
+#EXTINF: -1 tvg-name="STREAM" tvg-logo="https://th.bing.com/th/id/OIP.wZ8ZMfhFaz09vPb97to74wAAAA?rs=1&pid=ImgDetMain" group-title="Peliculas Acestream", El cuco (2023)
 http://127.0.0.1:6878/ace/getstream?id=501feb26c26f49537688f813aca21ff7cf358186
-#EXTINF: -1 tvg-name="CMM TV" tvg-logo="https://hips.hearstapps.com/hmg-prod/images/el-valle-de-la-esperanza-poster-64fae9655095a.jpg" group-title="Peliculas Acestream", El Valle de la esperanza (2023)
+#EXTINF: -1 tvg-name="STREAM" tvg-logo="https://hips.hearstapps.com/hmg-prod/images/el-valle-de-la-esperanza-poster-64fae9655095a.jpg" group-title="Peliculas Acestream", El Valle de la esperanza (2023)
 http://127.0.0.1:6878/ace/getstream?id=a568ea1aa655a8956508149b30d65ae441fa8d38
-#EXTINF: -1 tvg-name="CMM TV" tvg-logo="https://res.cloudinary.com/sagacity/image/upload/c_crop,h_985,w_758,x_0,y_0/c_limit,dpr_auto,f_auto,fl_lossy,q_80,w_1080/The_Hill__2021__k1ekzn.jpg" group-title="Peliculas Acestream", El viaje de Rickey Hill (2023)
+#EXTINF: -1 tvg-name="STREAM" tvg-logo="https://res.cloudinary.com/sagacity/image/upload/c_crop,h_985,w_758,x_0,y_0/c_limit,dpr_auto,f_auto,fl_lossy,q_80,w_1080/The_Hill__2021__k1ekzn.jpg" group-title="Peliculas Acestream", El viaje de Rickey Hill (2023)
 http://127.0.0.1:6878/ace/getstream?id=5dc53ddee85d17cf1d2186ebe688d09e8fb615cc
-#EXTINF: -1 tvg-name="CMM TV" tvg-logo="https://www.aceprensa.com/wp-content/uploads/2023/09/las-dos-caras-de-la-justicia-2.jpg" group-title="Peliculas Acestream", Las dos caras de la justicia (2023)
+#EXTINF: -1 tvg-name="STREAM" tvg-logo="https://www.aceprensa.com/wp-content/uploads/2023/09/las-dos-caras-de-la-justicia-2.jpg" group-title="Peliculas Acestream", Las dos caras de la justicia (2023)
 http://127.0.0.1:6878/ace/getstream?id=793d6686d0db6512ade8d9f0ac24c2c8ff6a0e81
-#EXTINF: -1 tvg-name="CMM TV" tvg-logo="https://pics.filmaffinity.com/Lift_Un_robo_de_primera_clase-500114909-large.jpg" group-title="Peliculas Acestream", Lift: Un robo de primera clase (2024)
+#EXTINF: -1 tvg-name="STREAM" tvg-logo="https://pics.filmaffinity.com/Lift_Un_robo_de_primera_clase-500114909-large.jpg" group-title="Peliculas Acestream", Lift: Un robo de primera clase (2024)
 http://127.0.0.1:6878/ace/getstream?id=f37c30b42c4ce0999f8511a42a0c2a227708a2b8
-#EXTINF: -1 tvg-name="CMM TV" tvg-logo="https://image.tmdb.org/t/p/original/kOFKpWdNu8Q14PyOUL87LcNpNZD.jpg" group-title="Peliculas Acestream", Piscina infinita (2023)
+#EXTINF: -1 tvg-name="STREAM" tvg-logo="https://image.tmdb.org/t/p/original/kOFKpWdNu8Q14PyOUL87LcNpNZD.jpg" group-title="Peliculas Acestream", Piscina infinita (2023)
 http://127.0.0.1:6878/ace/getstream?id=8d938dc5f1bcf0d111e1b3defed8d8ef73f7e70c
-#EXTINF: -1 tvg-name="CMM TV" tvg-logo="https://www.movieposters.com/cdn/shop/files/boys_in_the_boat_480x.progressive.jpg" group-title="Peliculas Acestream", Remando como un sólo hombre (2023)
+#EXTINF: -1 tvg-name="STREAM" tvg-logo="https://www.movieposters.com/cdn/shop/files/boys_in_the_boat_480x.progressive.jpg" group-title="Peliculas Acestream", Remando como un sólo hombre (2023)
 http://127.0.0.1:6878/ace/getstream?id=d1589664c9238d0d55710bc4586dcbf0229f0074
-#EXTINF: -1 tvg-name="CMM TV" tvg-logo="https://m.media-amazon.com/images/I/61wjKpqCyEL._SX342_.jpg" group-title="Peliculas Acestream", Un largo viaje (2023)
+#EXTINF: -1 tvg-name="STREAM" tvg-logo="https://m.media-amazon.com/images/I/61wjKpqCyEL._SX342_.jpg" group-title="Peliculas Acestream", Un largo viaje (2023)
 http://127.0.0.1:6878/ace/getstream?id=3ad6a4fa9353e68043b7e8bc54f0f420382366a1
-#EXTINF: -1 tvg-name="CMM TV" tvg-logo="https://www.ecartelera.com/carteles/17600/17640/001_p.jpg" group-title="Peliculas Acestream", Increíble pero cierto (2024)
+#EXTINF: -1 tvg-name="STREAM" tvg-logo="https://www.ecartelera.com/carteles/17600/17640/001_p.jpg" group-title="Peliculas Acestream", Increíble pero cierto (2024)
 http://127.0.0.1:6878/ace/getstream?id=a0dd736fb393099cd043f416e61f866909e319ce
-#EXTINF: -1 tvg-name="CMM TV" tvg-logo="https://static1.colliderimages.com/wordpress/wp-content/uploads/2023/10/due-justice-poster.jpeg" group-title="Peliculas Acestream", Palido - Due Justice (2024)
+#EXTINF: -1 tvg-name="STREAM" tvg-logo="https://static1.colliderimages.com/wordpress/wp-content/uploads/2023/10/due-justice-poster.jpeg" group-title="Peliculas Acestream", Palido - Due Justice (2024)
 http://127.0.0.1:6878/ace/getstream?id=751d1fafe300e930fdf57593b826718ccca0234f
-#EXTINF: -1 tvg-name="CMM TV" tvg-logo="https://th.bing.com/th/id/OIP.q7OaaM3yvfo90kT67ttjZwAAAA?rs=1&pid=ImgDetMain" group-title="Peliculas Acestream", Lluvia Acida (2024)
+#EXTINF: -1 tvg-name="STREAM" tvg-logo="https://th.bing.com/th/id/OIP.q7OaaM3yvfo90kT67ttjZwAAAA?rs=1&pid=ImgDetMain" group-title="Peliculas Acestream", Lluvia Acida (2024)
 http://127.0.0.1:6878/ace/getstream?id=d306d8be4c26029a148bc170c4247f7f2cf4d25c
-#EXTINF: -1 tvg-name="CMM TV" tvg-logo="https://pics.filmaffinity.com/60_minutos-818495723-large.jpg" group-title="Peliculas Acestream",60 minutos (2024)
+#EXTINF: -1 tvg-name="STREAM" tvg-logo="https://pics.filmaffinity.com/60_minutos-818495723-large.jpg" group-title="Peliculas Acestream",60 minutos (2024)
 http://127.0.0.1:6878/ace/getstream?id=0ce9a5512d651abd87a59fb21099fc5d0cf2fa15
-#EXTINF: -1 tvg-name="CMM TV" tvg-logo="https://th.bing.com/th/id/OIP.HONIFOGyszhMY4olbJwbMwAAAA?rs=1&pid=ImgDetMain" group-title="Peliculas Acestream",American Insurrection (2023)
+#EXTINF: -1 tvg-name="STREAM" tvg-logo="https://th.bing.com/th/id/OIP.HONIFOGyszhMY4olbJwbMwAAAA?rs=1&pid=ImgDetMain" group-title="Peliculas Acestream",American Insurrection (2023)
 http://127.0.0.1:6878/ace/getstream?id=04f6b6854b33b34736a5c5daf6901bb9b03191df
-#EXTINF: -1 tvg-name="CMM TV" tvg-logo="https://www.ecartelera.com/carteles/17900/17959/001_p.jpg" group-title="Peliculas Acestream",Algun dia nos lo contaremos todo (2024)
+#EXTINF: -1 tvg-name="STREAM" tvg-logo="https://www.ecartelera.com/carteles/17900/17959/001_p.jpg" group-title="Peliculas Acestream",Algun dia nos lo contaremos todo (2024)
 http://127.0.0.1:6878/ace/getstream?id=3c09384041598c1bf75dc050bad9cb4738a95272
-#EXTINF: -1 tvg-name="CMM TV" tvg-logo="https://pics.filmaffinity.com/Alimaanas-256843829-large.jpg" group-title="Peliculas Acestream",Alimañas (2024)
+#EXTINF: -1 tvg-name="STREAM" tvg-logo="https://pics.filmaffinity.com/Alimaanas-256843829-large.jpg" group-title="Peliculas Acestream",Alimañas (2024)
 http://127.0.0.1:6878/ace/getstream?id=529d3cf9b011cd4573686b1722b08b37e4169aca
-#EXTINF: -1 tvg-name="CMM TV" tvg-logo="https://fr.web.img2.acsta.net/pictures/23/02/27/09/25/2532473.jpg" group-title="Peliculas Acestream",Champions (2023)
+#EXTINF: -1 tvg-name="STREAM" tvg-logo="https://fr.web.img2.acsta.net/pictures/23/02/27/09/25/2532473.jpg" group-title="Peliculas Acestream",Champions (2023)
 http://127.0.0.1:6878/ace/getstream?id=43e4bd5cbc5b3344c091a6162c87b7b7b6d50a48
-#EXTINF: -1 tvg-name="CMM TV" tvg-logo="https://image.tmdb.org/t/p/original/kI2wF5PNWjAmh6uqpPxTt8PWOcq.jpg" group-title="Peliculas Acestream",Como Dios manda (2023)
+#EXTINF: -1 tvg-name="STREAM" tvg-logo="https://image.tmdb.org/t/p/original/kI2wF5PNWjAmh6uqpPxTt8PWOcq.jpg" group-title="Peliculas Acestream",Como Dios manda (2023)
 http://127.0.0.1:6878/ace/getstream?id=bef7091a5ce7b98e7946cefe06be19c944946c35
-#EXTINF: -1 tvg-name="CMM TV" tvg-logo="https://pics.filmaffinity.com/Yannick-868171281-large.jpg" group-title="Peliculas Acestream",Yannick (2024)
+#EXTINF: -1 tvg-name="STREAM" tvg-logo="https://pics.filmaffinity.com/Yannick-868171281-large.jpg" group-title="Peliculas Acestream",Yannick (2024)
 http://127.0.0.1:6878/ace/getstream?id=ce7eab7eb614f4af67e6d4d00b681dcd26863a50
-#EXTINF: -1 tvg-name="CMM TV" tvg-logo="https://w.notrecinema.com/w20/images/wallpapers/vign/jaquette_639356.jpg" group-title="Peliculas Acestream",Voluntad (2024)
+#EXTINF: -1 tvg-name="STREAM" tvg-logo="https://w.notrecinema.com/w20/images/wallpapers/vign/jaquette_639356.jpg" group-title="Peliculas Acestream",Voluntad (2024)
 http://127.0.0.1:6878/ace/getstream?id=82a93fe037bda9587903df24b9e91c6184b20459
-#EXTINF: -1 tvg-name="CMM TV" tvg-logo="https://i.pinimg.com/236x/ef/d0/bd/efd0bdf42bebfab462c0994f46c583dc.jpg?nii=t" group-title="Peliculas Acestream",Strays - Vida perra (2023)
+#EXTINF: -1 tvg-name="STREAM" tvg-logo="https://i.pinimg.com/236x/ef/d0/bd/efd0bdf42bebfab462c0994f46c583dc.jpg?nii=t" group-title="Peliculas Acestream",Strays - Vida perra (2023)
 http://127.0.0.1:6878/ace/getstream?id=02e4945880395008a13816b7081a40ceecc3ff72
-#EXTINF: -1 tvg-name="CMM TV" tvg-logo="https://th.bing.com/th/id/OIP.2ssbJUJFiM6iqKwGcRV9TQAAAA?rs=1&pid=ImgDetMain" group-title="Peliculas Acestream",Juego prohibido (2024)
+#EXTINF: -1 tvg-name="STREAM" tvg-logo="https://th.bing.com/th/id/OIP.2ssbJUJFiM6iqKwGcRV9TQAAAA?rs=1&pid=ImgDetMain" group-title="Peliculas Acestream",Juego prohibido (2024)
 http://127.0.0.1:6878/ace/getstream?id=30f679868140a93a5f857b79308240ddef6bd109
-#EXTINF: -1 tvg-name="CMM TV" tvg-logo="https://pics.filmaffinity.com/Mi_otro_Jon-578375141-large.jpg" group-title="Peliculas Acestream", Mi otro Jon (2023)
+#EXTINF: -1 tvg-name="STREAM" tvg-logo="https://pics.filmaffinity.com/Mi_otro_Jon-578375141-large.jpg" group-title="Peliculas Acestream", Mi otro Jon (2023)
 http://127.0.0.1:6878/ace/getstream?id=e4fa680552a60232e71ee006adfaa537db20a128
-#EXTINF: -1 tvg-name="CMM TV" tvg-logo="https://decine21.com/img/upload/obras/blood-de-brand-anderson-47615/blood-de-brand-anderson-47615-c.jpg" group-title="Peliculas Acestream", Blood de Brad Anderson (2023)
+#EXTINF: -1 tvg-name="STREAM" tvg-logo="https://decine21.com/img/upload/obras/blood-de-brand-anderson-47615/blood-de-brand-anderson-47615-c.jpg" group-title="Peliculas Acestream", Blood de Brad Anderson (2023)
 http://127.0.0.1:6878/ace/getstream?id=62c2dfa1b1dd48986f34cd752752b3f0c40324b1
-#EXTINF: -1 tvg-name="CMM TV" tvg-logo="https://i.ebayimg.com/images/g/2XgAAOSwzuVleEBH/s-l500.jpg" group-title="Peliculas Acestream", El color purpura (2023)
+#EXTINF: -1 tvg-name="STREAM" tvg-logo="https://i.ebayimg.com/images/g/2XgAAOSwzuVleEBH/s-l500.jpg" group-title="Peliculas Acestream", El color purpura (2023)
 http://127.0.0.1:6878/ace/getstream?id=1eb985b78797d6affdf55919edc8cca1fb46b32e
-#EXTINF: -1 tvg-name="CMM TV" tvg-logo="https://image.pmgstatic.com/cache/resized/w420/files/images/film/posters/168/499/168499246_x2lxg1.jpg" group-title="Peliculas Acestream", Luces Fuera (2023)
+#EXTINF: -1 tvg-name="STREAM" tvg-logo="https://image.pmgstatic.com/cache/resized/w420/files/images/film/posters/168/499/168499246_x2lxg1.jpg" group-title="Peliculas Acestream", Luces Fuera (2023)
 http://127.0.0.1:6878/ace/getstream?id=38f1a225ac98205b451e6f3533b10616c2fc214c
-#EXTINF: -1 tvg-name="CMM TV" tvg-logo="https://www.horrordna.com/images/news/film/indies/johnny-z/johnny-z-poster.jpg" group-title="Peliculas Acestream", Johnny Z (2023)
+#EXTINF: -1 tvg-name="STREAM" tvg-logo="https://www.horrordna.com/images/news/film/indies/johnny-z/johnny-z-poster.jpg" group-title="Peliculas Acestream", Johnny Z (2023)
 http://127.0.0.1:6878/ace/getstream?id=32f825b0f88f832bc2c9706ca61a713520c414ec
-#EXTINF: -1 tvg-name="CMM TV" tvg-logo="https://pics.filmaffinity.com/Noche_de_paz-440853997-large.jpg" group-title="Peliculas Acestream", Noche de Paz (2023)
+#EXTINF: -1 tvg-name="STREAM" tvg-logo="https://pics.filmaffinity.com/Noche_de_paz-440853997-large.jpg" group-title="Peliculas Acestream", Noche de Paz (2023)
 http://127.0.0.1:6878/ace/getstream?id=d6dd4a0b811fcbd22eac72a640012a08ed5a6027
-#EXTINF: -1 tvg-name="CMM TV" tvg-logo="https://th.bing.com/th/id/OIP.HhjRYhOZwPCH6etDK5dcFQAAAA?rs=1&pid=ImgDetMain" group-title="Peliculas Acestream", Five nights at freddy (2023)
+#EXTINF: -1 tvg-name="STREAM" tvg-logo="https://th.bing.com/th/id/OIP.HhjRYhOZwPCH6etDK5dcFQAAAA?rs=1&pid=ImgDetMain" group-title="Peliculas Acestream", Five nights at freddy (2023)
 http://127.0.0.1:6878/ace/getstream?id=907375f768383173b5d716c86fa44972e42cf751
-#EXTINF: -1 tvg-name="CMM TV" tvg-logo="https://th.bing.com/th/id/OIP.ZNWpLaECKNNIcBJFmIl1XwAAAA?rs=1&pid=ImgDetMain" group-title="Peliculas Acestream", The marvels (2023)
+#EXTINF: -1 tvg-name="STREAM" tvg-logo="https://th.bing.com/th/id/OIP.ZNWpLaECKNNIcBJFmIl1XwAAAA?rs=1&pid=ImgDetMain" group-title="Peliculas Acestream", The marvels (2023)
 http://127.0.0.1:6878/ace/getstream?id=b617628df78aeed530d684be28d2206176b85501
-#EXTINF: -1 tvg-name="CMM TV" tvg-logo="https://de.web.img3.acsta.net/c_310_420/pictures/23/10/16/10/03/2883902.jpg" group-title="Peliculas Acestream", Napoleon  (2023)
+#EXTINF: -1 tvg-name="STREAM" tvg-logo="https://de.web.img3.acsta.net/c_310_420/pictures/23/10/16/10/03/2883902.jpg" group-title="Peliculas Acestream", Napoleon  (2023)
 http://127.0.0.1:6878/ace/getstream?id=9a6a0bf17dd15aea190f509599dd92bf4cd68ddd
-#EXTINF: -1 tvg-name="CMM TV" tvg-logo="https://pics.filmaffinity.com/La_sociedad_de_la_nieve-826551508-large.jpg" group-title="Peliculas Acestream", La sociedad de la nieve (2023)
+#EXTINF: -1 tvg-name="STREAM" tvg-logo="https://pics.filmaffinity.com/La_sociedad_de_la_nieve-826551508-large.jpg" group-title="Peliculas Acestream", La sociedad de la nieve (2023)
 http://127.0.0.1:6878/ace/getstream?id=9274396dff8a14a65a092951004f28b37b14aa0c
-#EXTINF: -1 tvg-name="CMM TV" tvg-logo="https://www.abc.com.py/resizer/cF-h7Bdqo9UGQ3DXthU6dJF0CuA=/fit-in/770x495/filters:format(webp):focal(359x380:538x570)/cloudfront-us-east-1.images.arcpublishing.com/abccolor/5JHW5NK7WRC3XPGZ3RDHPECBQY.jpg" group-title="Peliculas Acestream", Trolls 3 (2023)
+#EXTINF: -1 tvg-name="STREAM" tvg-logo="https://www.abc.com.py/resizer/cF-h7Bdqo9UGQ3DXthU6dJF0CuA=/fit-in/770x495/filters:format(webp):focal(359x380:538x570)/cloudfront-us-east-1.images.arcpublishing.com/abccolor/5JHW5NK7WRC3XPGZ3RDHPECBQY.jpg" group-title="Peliculas Acestream", Trolls 3 (2023)
 http://127.0.0.1:6878/ace/getstream?id=ef81372243eacf4d4c263da676afcf58ef1a73ed
-#EXTINF: -1 tvg-name="CMM TV" tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/23/09/27/16/55/3642592.jpg" group-title="Peliculas Acestream", Saben Aquell (2023)
+#EXTINF: -1 tvg-name="STREAM" tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/23/09/27/16/55/3642592.jpg" group-title="Peliculas Acestream", Saben Aquell (2023)
 http://127.0.0.1:6878/ace/getstream?id=ce16d7a78b8816c6f1d1b9bfd877b1f373c9c529
-#EXTINF: -1 tvg-name="CMM TV" tvg-logo="https://www.ecartelera.com/carteles/17900/17986/001_m.jpg" group-title="Peliculas Acestream", La Manzana de oro (2023)
+#EXTINF: -1 tvg-name="STREAM" tvg-logo="https://www.ecartelera.com/carteles/17900/17986/001_m.jpg" group-title="Peliculas Acestream", La Manzana de oro (2023)
 http://127.0.0.1:6878/ace/getstream?id=fd8811592c0ef3f383bdeb5e93bc3a42b956469b
-#EXTINF: -1 tvg-name="CMM TV" tvg-logo="https://pics.filmaffinity.com/After_Aquai_acaba_todo-570162347-large.jpg" group-title="Peliculas Acestream", After aquí acaba todo (2023)
+#EXTINF: -1 tvg-name="STREAM" tvg-logo="https://pics.filmaffinity.com/After_Aquai_acaba_todo-570162347-large.jpg" group-title="Peliculas Acestream", After aquí acaba todo (2023)
 http://127.0.0.1:6878/ace/getstream?id=288a13ad5e1b208e232069ce36bec01bba654287
-#EXTINF: -1 tvg-name="CMM TV" tvg-logo="https://pics.filmaffinity.com/El_exorcista_Creyente-559498509-large.jpg" group-title="Peliculas Acestream", El Exorcista: Creyentes (2023)
+#EXTINF: -1 tvg-name="STREAM" tvg-logo="https://pics.filmaffinity.com/El_exorcista_Creyente-559498509-large.jpg" group-title="Peliculas Acestream", El Exorcista: Creyentes (2023)
 http://127.0.0.1:6878/ace/getstream?id=530e07d2ce73aaab2fb5200a2c09f3fe487389da
-#EXTINF: -1 tvg-name="CMM TV" tvg-logo="https://scriptmag.com/.image/c_limit%2Ccs_srgb%2Cq_auto:good%2Cw_300/MTg4NDQwMTI1NDAyMTk1NDk1/boon-poster.jpg" group-title="Peliculas Acestream", Boon El Protector  (2022)
+#EXTINF: -1 tvg-name="STREAM" tvg-logo="https://scriptmag.com/.image/c_limit%2Ccs_srgb%2Cq_auto:good%2Cw_300/MTg4NDQwMTI1NDAyMTk1NDk1/boon-poster.jpg" group-title="Peliculas Acestream", Boon El Protector  (2022)
 http://127.0.0.1:6878/ace/getstream?id=b12cc9ed9ce9cd7cc9f981ce0b1fea127e4d1632
-#EXTINF: -1 tvg-name="CMM TV" tvg-logo="https://th.bing.com/th/id/OIP.loAeTVaXfzLlDVzWOYVolAAAAA?w=328&h=492&rs=1&pid=ImgDetMain" group-title="Peliculas Acestream", Que bello es morir (2023)
+#EXTINF: -1 tvg-name="STREAM" tvg-logo="https://th.bing.com/th/id/OIP.loAeTVaXfzLlDVzWOYVolAAAAA?w=328&h=492&rs=1&pid=ImgDetMain" group-title="Peliculas Acestream", Que bello es morir (2023)
 http://127.0.0.1:6878/ace/getstream?id=9a27bbacc98e50412fa1e71df9574c068da7a247
-#EXTINF: -1 tvg-name="CMM TV" tvg-logo="https://api.baskadia.com/static/content/3677525/bd165f9e-c11f-4a39-adf2-138eea75248e.ti.jpg" group-title="Peliculas Acestream", El duelo (2023)
+#EXTINF: -1 tvg-name="STREAM" tvg-logo="https://api.baskadia.com/static/content/3677525/bd165f9e-c11f-4a39-adf2-138eea75248e.ti.jpg" group-title="Peliculas Acestream", El duelo (2023)
 http://127.0.0.1:6878/ace/getstream?id=628ffc060cb6b43ce5b3972369967da0cd2f0555
-#EXTINF: -1 tvg-name="CMM TV" tvg-logo="https://image.tmdb.org/t/p/w342/tDKSXWeoAs9FhIW0KDDBvdEo1rR.jpg" group-title="Peliculas Acestream", Mi cuñado es un vampiro (2023)
+#EXTINF: -1 tvg-name="STREAM" tvg-logo="https://image.tmdb.org/t/p/w342/tDKSXWeoAs9FhIW0KDDBvdEo1rR.jpg" group-title="Peliculas Acestream", Mi cuñado es un vampiro (2023)
 http://127.0.0.1:6878/ace/getstream?id=88724a6223e8e826a14f8964b622d7bdb0f05b6b
-#EXTINF: -1 tvg-name="CMM TV" tvg-logo="https://th.bing.com/th/id/OIP.fKVxtCwhl1LMgOW97N9iXAAAAA?rs=1&pid=ImgDetMain" group-title="Peliculas Acestream", Perder es ganar un poco (2023)
+#EXTINF: -1 tvg-name="STREAM" tvg-logo="https://th.bing.com/th/id/OIP.fKVxtCwhl1LMgOW97N9iXAAAAA?rs=1&pid=ImgDetMain" group-title="Peliculas Acestream", Perder es ganar un poco (2023)
 http://127.0.0.1:6878/ace/getstream?id=622e7c0b4b0443cdef718c5819b5c1edaa122e0d
-#EXTINF: -1 tvg-name="CMM TV" tvg-logo="https://th.bing.com/th/id/OIP.kfUtXCP8BS4K-Lil9ZhUHQAAAA?rs=1&pid=ImgDetMain" group-title="Peliculas Acestream", La hija del pantano (2023)
+#EXTINF: -1 tvg-name="STREAM" tvg-logo="https://th.bing.com/th/id/OIP.kfUtXCP8BS4K-Lil9ZhUHQAAAA?rs=1&pid=ImgDetMain" group-title="Peliculas Acestream", La hija del pantano (2023)
 http://127.0.0.1:6878/ace/getstream?id=edd3a4863bd173466ec32a1f08b4f01342885bfe
-#EXTINF: -1 tvg-name="CMM TV" tvg-logo="https://infomaniakos.net/wp-content/uploads/2023/02/Robot-de-compania-por-torrent.jpg" group-title="Peliculas Acestream", 2050 Robot de compania (2023)
+#EXTINF: -1 tvg-name="STREAM" tvg-logo="https://infomaniakos.net/wp-content/uploads/2023/02/Robot-de-compania-por-torrent.jpg" group-title="Peliculas Acestream", 2050 Robot de compania (2023)
 http://127.0.0.1:6878/ace/getstream?id=75bcce76a44fce4c64824de35df79f60c0f42e19
-#EXTINF: -1 tvg-name="CMM TV" tvg-logo="https://pics.filmaffinity.com/10_daias_de_un_buen_hombre-924882160-large.jpg" group-title="Peliculas Acestream", 10 dias de un buen hombre (2023)
+#EXTINF: -1 tvg-name="STREAM" tvg-logo="https://pics.filmaffinity.com/10_daias_de_un_buen_hombre-924882160-large.jpg" group-title="Peliculas Acestream", 10 dias de un buen hombre (2023)
 http://127.0.0.1:6878/ace/getstream?id=c8bf54c4f60361e4e0342a368f6ad69ce87ae4a4
-#EXTINF: -1 tvg-name="CMM TV" tvg-logo="https://th.bing.com/th/id/OIP.UH0zUdX8Ig8r3Pad83x-cwAAAA?rs=1&pid=ImgDetMain" group-title="Peliculas Acestream", Que se besen (2023)
+#EXTINF: -1 tvg-name="STREAM" tvg-logo="https://th.bing.com/th/id/OIP.UH0zUdX8Ig8r3Pad83x-cwAAAA?rs=1&pid=ImgDetMain" group-title="Peliculas Acestream", Que se besen (2023)
 http://127.0.0.1:6878/ace/getstream?id=e49135fa932a6181e7f64277edc07be1145d7b3f
-#EXTINF: -1 tvg-name="CMM TV" tvg-logo="https://th.bing.com/th/id/OIP.u87S2ZClYIx_FsIS5OAfjQAAAA?rs=1&pid=ImgDetMain" group-title="Peliculas Acestream", Estrellas fugaces (2023)
+#EXTINF: -1 tvg-name="STREAM" tvg-logo="https://th.bing.com/th/id/OIP.u87S2ZClYIx_FsIS5OAfjQAAAA?rs=1&pid=ImgDetMain" group-title="Peliculas Acestream", Estrellas fugaces (2023)
 http://127.0.0.1:6878/ace/getstream?id=42be7f2ca2e39900ad8e6e2203a25a929b913e93
-#EXTINF: -1 tvg-name="CMM TV" tvg-logo="https://posterspy.com/wp-content/uploads/2023/09/Saw-X-Poster-9-min.jpg" group-title="Peliculas Acestream", Saw X (2023)
+#EXTINF: -1 tvg-name="STREAM" tvg-logo="https://posterspy.com/wp-content/uploads/2023/09/Saw-X-Poster-9-min.jpg" group-title="Peliculas Acestream", Saw X (2023)
 http://127.0.0.1:6878/ace/getstream?id=42082256dc9d93a9cd0097b9a40fc1d8f9b66b5c
-#EXTINF: -1 tvg-name="CMM TV" tvg-logo="https://pics.filmaffinity.com/Campeonex-966482082-large.jpg" group-title="Peliculas Acestream", CampeoneX (2023)
+#EXTINF: -1 tvg-name="STREAM" tvg-logo="https://pics.filmaffinity.com/Campeonex-966482082-large.jpg" group-title="Peliculas Acestream", CampeoneX (2023)
 http://127.0.0.1:6878/ace/getstream?id=11771d7b23eb571056451f0ac720c1fcf77226ff
-#EXTINF: -1 tvg-name="CMM TV" tvg-logo="https://pics.filmaffinity.com/Alta_mar-434513519-large.jpg" group-title="Peliculas Acestream", Alta mar (2023)
+#EXTINF: -1 tvg-name="STREAM" tvg-logo="https://pics.filmaffinity.com/Alta_mar-434513519-large.jpg" group-title="Peliculas Acestream", Alta mar (2023)
 http://127.0.0.1:6878/ace/getstream?id=889f7d059468bf5ebf7087225e6f922b5d9fc8c7
-#EXTINF: -1 tvg-name="CMM TV" tvg-logo="https://www.movienewsletters.net/photos/352610H1.jpg" group-title="Peliculas Acestream", Retumbar a través de la oscuridad (2023)
+#EXTINF: -1 tvg-name="STREAM" tvg-logo="https://www.movienewsletters.net/photos/352610H1.jpg" group-title="Peliculas Acestream", Retumbar a través de la oscuridad (2023)
 http://127.0.0.1:6878/ace/getstream?id=a4a5710b40e1f28f7d80ec24c6dd4e75053d7c6e
-#EXTINF: -1 tvg-name="CMM TV" tvg-logo="https://pics.filmaffinity.com/Los_asesinos_de_la_luna-211527208-large.jpg" group-title="Peliculas Acestream", Los asesinos de la luna (2023)
+#EXTINF: -1 tvg-name="STREAM" tvg-logo="https://pics.filmaffinity.com/Los_asesinos_de_la_luna-211527208-large.jpg" group-title="Peliculas Acestream", Los asesinos de la luna (2023)
 http://127.0.0.1:6878/ace/getstream?id=8b1df56b8d66300de36c4ce86be87ebc7ea8bfa8
-#EXTINF: -1 tvg-name="CMM TV" tvg-logo="https://th.bing.com/th/id/OIP.fkekSn4mtiJ8wHwIacYQAgAAAA?rs=1&pid=ImgDetMain" group-title="Peliculas Acestream", La Navidad del pequeño batman (2023)
+#EXTINF: -1 tvg-name="STREAM" tvg-logo="https://th.bing.com/th/id/OIP.fkekSn4mtiJ8wHwIacYQAgAAAA?rs=1&pid=ImgDetMain" group-title="Peliculas Acestream", La Navidad del pequeño batman (2023)
 http://127.0.0.1:6878/ace/getstream?id=7101144032c8cf9469c073ca9a6969e1cfd2bc6d
-#EXTINF: -1 tvg-name="CMM TV" tvg-logo="https://pics.filmaffinity.com/Oppenheimer-828933592-large.jpg" group-title="Peliculas Acestream", Oppenheimer (2023)
+#EXTINF: -1 tvg-name="STREAM" tvg-logo="https://pics.filmaffinity.com/Oppenheimer-828933592-large.jpg" group-title="Peliculas Acestream", Oppenheimer (2023)
 http://127.0.0.1:6878/ace/getstream?id=f25be9cf261dd77b95c6bfccfcead2ff73053a87
-#EXTINF: -1 tvg-name="CMM TV" tvg-logo="https://pics.filmaffinity.com/La_Patrulla_Canina_La_superpelaicula-340727255-large.jpg" group-title="Peliculas Acestream",La Patrulla Canina - La super película (2023)
+#EXTINF: -1 tvg-name="STREAM" tvg-logo="https://pics.filmaffinity.com/La_Patrulla_Canina_La_superpelaicula-340727255-large.jpg" group-title="Peliculas Acestream",La Patrulla Canina - La super película (2023)
 http://127.0.0.1:6878/ace/getstream?id=66bb6e0b66017547e112cf36c66b42b44df54e96 
-#EXTINF: -1 tvg-name="CMM TV" tvg-logo="https://pics.filmaffinity.com/Ruby_aventuras_de_una_kraken_adolescente-919804181-large.jpg" group-title="Peliculas Acestream",Ruby - Aventuras de un kraken adolescente (2023)
+#EXTINF: -1 tvg-name="STREAM" tvg-logo="https://pics.filmaffinity.com/Ruby_aventuras_de_una_kraken_adolescente-919804181-large.jpg" group-title="Peliculas Acestream",Ruby - Aventuras de un kraken adolescente (2023)
 http://127.0.0.1:6878/ace/getstream?id=c36549faf408940e1a2d673767260f11d44ff711
-#EXTINF: -1 tvg-name="CMM TV" tvg-logo="https://fr.web.img4.acsta.net/c_310_420/pictures/23/06/12/09/20/3274357.jpg" group-title="Peliculas Acestream",The Blackening (2023)
+#EXTINF: -1 tvg-name="STREAM" tvg-logo="https://fr.web.img4.acsta.net/c_310_420/pictures/23/06/12/09/20/3274357.jpg" group-title="Peliculas Acestream",The Blackening (2023)
 http://127.0.0.1:6878/ace/getstream?id=ca7715c0d71a2f77121703b8fae2d7d1f6372b86
-#EXTINF: -1 tvg-name="CMM TV" tvg-logo="https://th.bing.com/th/id/OIP.fdnUna59hwL1Uin19OMzUwAAAA?rs=1&pid=ImgDetMain" group-title="Peliculas Acestream",Me encontrarás en lo profundo del abismo (2023)
+#EXTINF: -1 tvg-name="STREAM" tvg-logo="https://th.bing.com/th/id/OIP.fdnUna59hwL1Uin19OMzUwAAAA?rs=1&pid=ImgDetMain" group-title="Peliculas Acestream",Me encontrarás en lo profundo del abismo (2023)
 http://127.0.0.1:6878/ace/getstream?id=f5f3d91b00a8dd2ec518547e69f7a7e31db9092c
-#EXTINF: -1 tvg-name="CMM TV" tvg-logo="https://pics.filmaffinity.com/dark_harvest-901698076-mmed.jpg" group-title="Peliculas Acestream",COSECHA OSCURA (2023)
+#EXTINF: -1 tvg-name="STREAM" tvg-logo="https://pics.filmaffinity.com/dark_harvest-901698076-mmed.jpg" group-title="Peliculas Acestream",COSECHA OSCURA (2023)
 http://127.0.0.1:6878/ace/getstream?id=ec01f2b4174a02f964985585c715f1cd7af5060f
-#EXTINF: -1 tvg-name="CMM TV" tvg-logo="https://sun9-58.userapi.com/impg/06A-z5CFSdB2g4MDqfZwOZVxCnI_3E4ndaxDMQ/3eYFRDOP3GE.jpg?size=300x450&quality=95&sign=5cef3c446f886341b8bf139cde9d2899&type=album" group-title="Peliculas Acestream",Winnie the pooh  -  miel y sangre (2023)
+#EXTINF: -1 tvg-name="STREAM" tvg-logo="https://sun9-58.userapi.com/impg/06A-z5CFSdB2g4MDqfZwOZVxCnI_3E4ndaxDMQ/3eYFRDOP3GE.jpg?size=300x450&quality=95&sign=5cef3c446f886341b8bf139cde9d2899&type=album" group-title="Peliculas Acestream",Winnie the pooh  -  miel y sangre (2023)
 http://127.0.0.1:6878/ace/getstream?id=a61cc71ecced9a4f28d9c4a76aea5c79df878635
-#EXTINF: -1 tvg-name="CMM TV" tvg-logo="https://pics.filmaffinity.com/No_tengas_miedo_Cobweb-304613261-large.jpg" group-title="Peliculas Acestream",No tengas miedo (2023)
+#EXTINF: -1 tvg-name="STREAM" tvg-logo="https://pics.filmaffinity.com/No_tengas_miedo_Cobweb-304613261-large.jpg" group-title="Peliculas Acestream",No tengas miedo (2023)
 http://127.0.0.1:6878/ace/getstream?id=a216ce32097b845aaedc11693641e2aa67744bf0 
-#EXTINF: -1 tvg-name="CMM TV" tvg-logo="https://sun9-54.userapi.com/impg/CzO47PRECM6L60JvjzTGsNrOKeCzQ7P4i722yA/l4eYpyyBbrY.jpg?size=300x450&quality=95&sign=4cdb691255824c794a894f2b6d94d312&type=album" group-title="Peliculas Acestream",Margaux (2023)
+#EXTINF: -1 tvg-name="STREAM" tvg-logo="https://sun9-54.userapi.com/impg/CzO47PRECM6L60JvjzTGsNrOKeCzQ7P4i722yA/l4eYpyyBbrY.jpg?size=300x450&quality=95&sign=4cdb691255824c794a894f2b6d94d312&type=album" group-title="Peliculas Acestream",Margaux (2023)
 http://127.0.0.1:6878/ace/getstream?id=067523fecf47aa44c0ffc9078e9966198f6e981a
-#EXTINF: -1 tvg-name="CMM TV" tvg-logo="https://pics.filmaffinity.com/The_Creator-470808400-large.jpg" group-title="Peliculas Acestream",The Creator (2023)
+#EXTINF: -1 tvg-name="STREAM" tvg-logo="https://pics.filmaffinity.com/The_Creator-470808400-large.jpg" group-title="Peliculas Acestream",The Creator (2023)
 http://127.0.0.1:6878/ace/getstream?id=6157e8f2e59ca5be675b01b29edd57f86a16d5b1
-#EXTINF: -1 tvg-name="CMM TV" tvg-logo="https://th.bing.com/th/id/OIP.cDmMt1EhXELrElCOSvCe0AAAAA?rs=1&pid=ImgDetMain" group-title="Peliculas Acestream",Yo, traidor (2023)
+#EXTINF: -1 tvg-name="STREAM" tvg-logo="https://th.bing.com/th/id/OIP.cDmMt1EhXELrElCOSvCe0AAAAA?rs=1&pid=ImgDetMain" group-title="Peliculas Acestream",Yo, traidor (2023)
 http://127.0.0.1:6878/ace/getstream?id=0150393e6594552c43c90fcc4ab6dc07d73c0781
-#EXTINF: -1 tvg-name="CMM TV" tvg-logo="https://pics.filmaffinity.com/Misterio_en_Venecia-814202842-large.jpg" group-title="Peliculas Acestream",Misterio en Venecia
+#EXTINF: -1 tvg-name="STREAM" tvg-logo="https://pics.filmaffinity.com/Misterio_en_Venecia-814202842-large.jpg" group-title="Peliculas Acestream",Misterio en Venecia
 http://127.0.0.1:6878/ace/getstream?id=4653278b16a10789237941d569b8e38ffa434e94 
-#EXTINF: -1 tvg-name="CMM TV" tvg-logo="https://th.bing.com/th/id/OIP.pSyppLQCID-qPXo4KriORgAAAA?rs=1&pid=ImgDetMain" group-title="Peliculas Acestream",Vesper (2023)
+#EXTINF: -1 tvg-name="STREAM" tvg-logo="https://th.bing.com/th/id/OIP.pSyppLQCID-qPXo4KriORgAAAA?rs=1&pid=ImgDetMain" group-title="Peliculas Acestream",Vesper (2023)
 http://127.0.0.1:6878/ace/getstream?id=f2d9886ec44333611a440df223dafa6fc95a0f05
-#EXTINF: -1 tvg-name="CMM TV" tvg-logo="https://pics.filmaffinity.com/Hermana_muerte-203218447-large.jpg" group-title="Peliculas Acestream",Hermana muerte (2023)
+#EXTINF: -1 tvg-name="STREAM" tvg-logo="https://pics.filmaffinity.com/Hermana_muerte-203218447-large.jpg" group-title="Peliculas Acestream",Hermana muerte (2023)
 http://127.0.0.1:6878/ace/getstream?id=8bd3010b192c88b5fdcfc48d903f5106da41ef50
-#EXTINF: -1 tvg-name="CMM TV" tvg-logo="https://i0.wp.com/horrorguys.com/Images2/Screenshot%202023-10-23%20at%209.27.53%E2%80%AFAM.png?ssl=1" group-title="Peliculas Acestream",Cementerio de animales - El origen (2023)
+#EXTINF: -1 tvg-name="STREAM" tvg-logo="https://i0.wp.com/horrorguys.com/Images2/Screenshot%202023-10-23%20at%209.27.53%E2%80%AFAM.png?ssl=1" group-title="Peliculas Acestream",Cementerio de animales - El origen (2023)
 http://127.0.0.1:6878/ace/getstream?id=9c26a8d9be5b681ba95303474a3f41bf73ef2fb5
-#EXTINF: -1 tvg-name="CMM TV" tvg-logo="https://pics.filmaffinity.com/De_perdidos_a_Raio-791997757-large.jpg" group-title="Peliculas Acestream",De perdidos a Río (2023)
+#EXTINF: -1 tvg-name="STREAM" tvg-logo="https://pics.filmaffinity.com/De_perdidos_a_Raio-791997757-large.jpg" group-title="Peliculas Acestream",De perdidos a Río (2023)
 http://127.0.0.1:6878/ace/getstream?id=5f4e081c457af2f20e5afb727a6136746e5d7577
-
