@@ -226,6 +226,8 @@ https://atres-live.atresmedia.com/b661ebeea11ecfa5dc7ce573790b5680e876f046_ES_17
 http://127.0.0.1:6878/ace/getstream?id=e8eec35f4662be1af96963245bfa88fb7d0242c4
 #EXTINF: -1 tvg-id="TeleCinco" tvg-logo= "https://www.movistarplus.es/recorte/m-NEO/canal/T5.png" group-title="TDT",Telecinco
 https://crcdn09.adnxs-simple.com/creative20/p/13337/2024/2/20/54729052/fbd1bc15-ee05-433d-9cb5-aede0c4784e7_768_432_500k.webm
+#EXTINF: -1 tvg-name="STREAM" tvg-logo="https://www.elseptimoarte.net/carteles/442/hidden_strike_97954.jpg" group-title="Peliculas Acestream", Hidden Strike (2023)
+http://127.0.0.1:6878/ace/getstream?id=c5e5577c70ec4b196a058c9a2cb4c6dd0e5fed25
 #EXTINF: -1 tvg-name="STREAM" tvg-logo="https://pics.filmaffinity.com/poor_things-235700969-mmed.jpg" group-title="Peliculas Acestream", Pobres Criaturas (2023)
 http://127.0.0.1:6878/ace/getstream?id=b78bfc037be94eb728118b23868614f3efcef1f5
 #EXTINF: -1 tvg-name="STREAM" tvg-logo="https://leiturafilmica.com.br/wp-content/uploads/2023/08/agente-stone-poster.jpg" group-title="Peliculas Acestream", Agente Stone (2023)
