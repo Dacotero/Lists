@@ -226,8 +226,8 @@ https://atres-live.atresmedia.com/b661ebeea11ecfa5dc7ce573790b5680e876f046_ES_17
 http://127.0.0.1:6878/ace/getstream?id=e8eec35f4662be1af96963245bfa88fb7d0242c4
 #EXTINF: -1 tvg-id="TeleCinco" tvg-logo= "https://www.movistarplus.es/recorte/m-NEO/canal/T5.png" group-title="TDT",Telecinco
 https://crcdn09.adnxs-simple.com/creative20/p/13337/2024/2/20/54729052/fbd1bc15-ee05-433d-9cb5-aede0c4784e7_768_432_500k.webm
-#EXTINF: -1 tvg-name="TOROS" tvg-logo="https://i.postimg.cc/hvSVKhhz/Screenshot-20240413-160450-Plus.jpg" group-title="Peliculas Acestream", ONETORO
-http://127.0.0.1:6878/ace/getstream?id=5f966c123759de46dff29c379266b7a403452033 
+#EXTINF: -1 tvg-name="TOROS" tvg-logo="https://i.postimg.cc/hvSVKhhz/Screenshot-20240413-160450-Plus.jpg" group-title="TOROS", ONETORO
+http://127.0.0.1:6878/ace/getstream?id=5f966c123759de46dff29c379266b7a403452033
 #EXTINF: -1 tvg-name="STREAM" tvg-logo="https://i.postimg.cc/qBL791rv/4588776-1.jpg" group-title="Peliculas Acestream", Anatomia de una caida (2023)
 http://127.0.0.1:6878/ace/getstream?id=7875854eda6d1765b8aa15b27c3fe4e34724576e
 #EXTINF: -1 tvg-name="STREAM" tvg-logo="https://i.ibb.co/KDJxZZp/MV5-BNTZm-MTE4-Njgt-N2-Vm-Ni00-Nzc5-LWFj-YTUt-NTA1-MTNj-Mzgx-ODM3-Xk-Ey-Xk-Fqc-Gde-QXVy-Mjgz-NDg1-Nz.jpg" group-title="Peliculas Acestream", Upon Entry [la llegada] (2023)
