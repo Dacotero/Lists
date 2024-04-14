@@ -229,8 +229,10 @@ https://atres-live.atresmedia.com/b661ebeea11ecfa5dc7ce573790b5680e876f046_ES_17
 http://127.0.0.1:6878/ace/getstream?id=e8eec35f4662be1af96963245bfa88fb7d0242c4
 #EXTINF: -1 tvg-id="TeleCinco" tvg-logo= "https://www.movistarplus.es/recorte/m-NEO/canal/T5.png" group-title="TDT",Telecinco
 https://crcdn09.adnxs-simple.com/creative20/p/13337/2024/2/20/54729052/fbd1bc15-ee05-433d-9cb5-aede0c4784e7_768_432_500k.webm
+#EXTINF: -1 tvg-name="STREAM" tvg-logo="https://image.tmdb.org/t/p/w342/5nek96vtBaDbTYxEZFkzgvogO6e.jpg" group-title="Peliculas Acestream", En nombre de la tierra (2023)
+http://127.0.0.1:6878/ace/getstream?id=91aadc6fc9fe20ab74972a30220f4ea4ee7c22f3
 #EXTINF: -1 tvg-name="STREAM" tvg-logo="https://mabuse.es/wp-content/uploads/2023/12/el-libro-de-las-solucione.jpg" group-title="Peliculas Acestream", El libro de las soluciones (2023)
-4dc6089ee45dd61d1b24f40d8b77d54e44c05994
+http://127.0.0.1:6878/ace/getstream?id=4dc6089ee45dd61d1b24f40d8b77d54e44c05994
 #EXTINF: -1 tvg-name="STREAM" tvg-logo="https://i.ibb.co/znYK0jg/rsz-ferrari-253622060-large.jpg" group-title="Peliculas Acestream", Ferrari (2023)
 http://127.0.0.1:6878/ace/getstream?id=5f966c123759de46dff29c379266b7a403452033 
 #EXTINF: -1 tvg-name="STREAM" tvg-logo="https://decine21.com/img/upload/obras/past-lives-46747/src/past-lives-46747-c.jpg" group-title="Peliculas Acestream", Vidas pasadas (2023)
