@@ -229,6 +229,8 @@ https://atres-live.atresmedia.com/b661ebeea11ecfa5dc7ce573790b5680e876f046_ES_17
 http://127.0.0.1:6878/ace/getstream?id=e8eec35f4662be1af96963245bfa88fb7d0242c4
 #EXTINF: -1 tvg-id="TeleCinco" tvg-logo= "https://www.movistarplus.es/recorte/m-NEO/canal/T5.png" group-title="TDT",Telecinco
 https://crcdn09.adnxs-simple.com/creative20/p/13337/2024/2/20/54729052/fbd1bc15-ee05-433d-9cb5-aede0c4784e7_768_432_500k.webm
+#EXTINF: -1 tvg-name="STREAM" tvg-logo="https://www.citydom.de/images/Breite_400px_RGB/p_95045.jpg" group-title="Peliculas Acestream", DUNE Parte 2 (2024)
+http://127.0.0.1:6878/ace/getstream?id=a094e9c2b76138c5786e2211aa9138d76bba9194
 #EXTINF: -1 tvg-name="STREAM" tvg-logo="https://image.tmdb.org/t/p/w342/5nek96vtBaDbTYxEZFkzgvogO6e.jpg" group-title="Peliculas Acestream", En nombre de la tierra (2023)
 http://127.0.0.1:6878/ace/getstream?id=91aadc6fc9fe20ab74972a30220f4ea4ee7c22f3
 #EXTINF: -1 tvg-name="STREAM" tvg-logo="https://mabuse.es/wp-content/uploads/2023/12/el-libro-de-las-solucione.jpg" group-title="Peliculas Acestream", El libro de las soluciones (2023)
