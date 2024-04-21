@@ -227,7 +227,7 @@ https://atres-live.atresmedia.com/b661ebeea11ecfa5dc7ce573790b5680e876f046_ES_17
 http://127.0.0.1:6878/ace/getstream?id=e8eec35f4662be1af96963245bfa88fb7d0242c4
 #EXTINF: -1 tvg-id="TeleCinco" tvg-logo= "https://www.movistarplus.es/recorte/m-NEO/canal/T5.png" group-title="TDT",Telecinco
 https://crcdn09.adnxs-simple.com/creative20/p/13337/2024/2/20/54729052/fbd1bc15-ee05-433d-9cb5-aede0c4784e7_768_432_500k.webm
-#EXTINF: -1 tvg-name="STREAM" tvg-logo="https://wolfmax4k.com/assets/u/p/f/thumbs/Tailor--El-sastre---2024---BLuRayRip.jpg" group-title="Peliculas Acestream", El Sastre (2024)
+#EXTINF: -1 tvg-name="STREAM" tvg-logo="https://i.postimg.cc/sDd9g9Bs/Tailor-peque.jpg" group-title="Peliculas Acestream", El Sastre (2024)
 http://127.0.0.1:6878/ace/getstream?id=333c3b8099792f03bfdcb1b78a2c2567bf1dc61e
 #EXTINF: -1 tvg-name="STREAM" tvg-logo="https://i.postimg.cc/T3Mq7jjp/no-way-small.jpg" group-title="Peliculas Acestream", No way up (2024)
 http://127.0.0.1:6878/ace/getstream?id=a528f098e7ac6053f1227890356f796b78e29663
