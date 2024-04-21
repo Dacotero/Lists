@@ -227,7 +227,7 @@ https://atres-live.atresmedia.com/b661ebeea11ecfa5dc7ce573790b5680e876f046_ES_17
 http://127.0.0.1:6878/ace/getstream?id=e8eec35f4662be1af96963245bfa88fb7d0242c4
 #EXTINF: -1 tvg-id="TeleCinco" tvg-logo= "https://www.movistarplus.es/recorte/m-NEO/canal/T5.png" group-title="TDT",Telecinco
 https://crcdn09.adnxs-simple.com/creative20/p/13337/2024/2/20/54729052/fbd1bc15-ee05-433d-9cb5-aede0c4784e7_768_432_500k.webm
-#EXTINF: -1 tvg-name="STREAM" tvg-logo="#EXTINF: -1 tvg-name="STREAM" tvg-logo="https://pics.filmaffinity.com/no_way_up-335653411-mmed.jpg" group-title="Peliculas Acestream", No way up (2024)
+#EXTINF: -1 tvg-name="STREAM" tvg-logo="#EXTINF: -1 tvg-name="STREAM" tvg-logo="https://media.discordapp.net/attachments/1139337985016467559/1231003430810554528/image.png?ex=66356048&is=6622eb48&hm=912727017be178b54ba2f742de764222fa6e15cd136eb5152f1574958906066d&=&format=webp&quality=lossless&width=275&height=406" group-title="Peliculas Acestream", No way up (2024)
 http://127.0.0.1:6878/ace/getstream?id=a528f098e7ac6053f1227890356f796b78e29663
 #EXTINF: -1 tvg-name="STREAM" tvg-logo="https://media.discordapp.net/attachments/1139337985016467559/1231003358748217425/image.png?ex=662636f7&is=6624e577&hm=652fd0c2e960391ed8957618022f6859940f1bf67caba18745d8ef09362710bd&=&format=webp&quality=lossless&width=447&height=662" group-title="Peliculas Acestream", Rebel Moon Parte 2 (2024)
 http://127.0.0.1:6878/ace/getstream?id=d029a07aa5277524e384ab1714317933721fd1c2
