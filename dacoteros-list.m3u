@@ -172,7 +172,7 @@ http://127.0.0.1:6878/ace/getstream?id=5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
 #EXTINF: -1 tvg-id="EuroSport 2" tvg-logo="https://i.postimg.cc/PxH32mh2/eurosport2-new.png" group-title="EuroSport", EuroSport 2 [1080]
 http://127.0.0.1:6878/ace/getstream?id=c373da9e901d414b7384e671112e64d5a2310c29
 #EXTINF: -1 tvg-name="ONETORO" tvg-logo="https://i.postimg.cc/hvSVKhhz/Screenshot-20240413-160450-Plus.jpg" group-title="Varios Acestream", ONETORO
-http://127.0.0.1:6878/ace/getstream?id=5f966c123759de46dff29c379266b7a403452033
+http://50.7.144.138:8000/play/fe928827/ufAfU8s9bH/558672.ts.m3u558672?token=H0EMV0RQRl8UAAABUVMGAV5XWgkAUgYFAgJfCgAKAgdXUVdVAAoBUw5DFRZAFkBdBw48WFASDVEAD1APURQXRhcGFmleXEZfFFILBAdWAxpKQRdYWVUVXgUbREgKXBcJRlBSAgMaSEdTGU1RQQxTVDkHBkddU1JGD1kTVA8UF1wKPABTWlkKARRbGwURThBRFRNBC1pFWwgZFQRRF0pURwFBXhQHGkhHVQ5MWkcQSxpcQSZiFhwVAU1DA1YQUVpdRllGWwRNXEcaQ1BHbBBXSxIRBlBZVUVGDxVWGk8aWFIcPAdZWVYBBkIIVlpAQAgaVUFPE1lfWQ1BWBRnE1FREV5BVw8FCkYY
 #EXTINF: -1 tvg-id="beIN Sport ñ1" tvg-logo="https://cdn141.picsart.com/d2212bf5-0999-4b88-a137-e70f998eeada/402020668010211.png?to=crop&type=webp&r=540x405&q=85" group-title="Varios Acestream", beIN SPORT ñ1
 http://127.0.0.1:6878/ace/getstream?id=4853a0bd4fd17f85f563267feb6aec3319a3ac1d
 #EXTINF: -1 tvg-id="beIN Sport ñ" tvg-logo="https://cdn141.picsart.com/d2212bf5-0999-4b88-a137-e70f998eeada/402020668010211.png?to=crop&type=webp&r=540x405&q=85" group-title="Varios Acestream", beIN SPORT ñ
