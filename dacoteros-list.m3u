@@ -229,6 +229,10 @@ http://127.0.0.1:6878/ace/getstream?id=e8eec35f4662be1af96963245bfa88fb7d0242c4
 https://crcdn09.adnxs-simple.com/creative20/p/13337/2024/2/20/54729052/fbd1bc15-ee05-433d-9cb5-aede0c4784e7_768_432_500k.webm
 #EXTINF: -1 tvg-id="TVG" tvg-logo= "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/TVG.png" group-title="TDT",TVG
 https://crtvg-events1.flumotion.cloud/crtvg/events1_high/chunks.m3u8
+#EXTINF: -1 tvg-name="STREAM" tvg-logo="https://pics.filmaffinity.com/the_zone_of_interest-642266949-mmed.jpg" group-title="Peliculas Acestream", La zona de interes (2023)
+http://127.0.0.1:6878/ace/getstream?id=5e3c9166a4172030ef539e815f674ae6ecbf261a
+#EXTINF: -1 tvg-name="STREAM" tvg-logo="https://pics.filmaffinity.com/manodrome-915575493-mmed.jpg" group-title="Peliculas Acestream", Manodrome (2023)
+http://127.0.0.1:6878/ace/getstream?id=711dc271054d8876d13f40c4ef684bc50c31118a
 #EXTINF: -1 tvg-name="STREAM" tvg-logo="https://i.ibb.co/zf649q3/the-artifice-girl-816552009-large-1.jpg" group-title="Peliculas Acestream", The Artifice Game (2022)
 http://127.0.0.1:6878/ace/getstream?id=6bebac8cd04ae55ffbc9a0d0b5ecbee5a3fb9d24
 #EXTINF: -1 tvg-name="STREAM" tvg-logo="https://i.ibb.co/qRmQ3tH/honeymoon-991587111-large-1.jpg" group-title="Peliculas Acestream", Honeymoon (2024)
