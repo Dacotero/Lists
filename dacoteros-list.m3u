@@ -229,6 +229,8 @@ http://127.0.0.1:6878/ace/getstream?id=e8eec35f4662be1af96963245bfa88fb7d0242c4
 https://crcdn09.adnxs-simple.com/creative20/p/13337/2024/2/20/54729052/fbd1bc15-ee05-433d-9cb5-aede0c4784e7_768_432_500k.webm
 #EXTINF: -1 tvg-id="TVG" tvg-logo= "https://evarfontenla.com/wp-content/uploads/TELEVISION-DE-GALICIA.png" group-title="TDT",TVG
 https://crtvg-events1.flumotion.cloud/crtvg/events1_high/chunks.m3u8
+#EXTINF: -1 tvg-id="TVG" tvg-logo= "https://evarfontenla.com/wp-content/uploads/TELEVISION-DE-GALICIA.png" group-title="TDT",La Otra
+https://laotra-1-23-secure2.akamaized.net/bitrate_1.m3u8
 #EXTINF: -1 tvg-name="STREAM" tvg-logo="https://pics.filmaffinity.com/gojira_1_0-527349454-mmed.jpg" group-title="Peliculas Acestream", Godzilla Minus One VOSE (2024)
 http://127.0.0.1:6878/ace/getstream?id=b6b326253bd9149d8c297180edeab343f04ab24d
 #EXTINF: -1 tvg-name="STREAM" tvg-logo="https://pics.filmaffinity.com/plancha-653826285-mmed.jpg" group-title="Peliculas Acestream", Felices 50 (PLANCHA) (2024)
