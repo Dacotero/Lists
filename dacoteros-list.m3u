@@ -229,6 +229,8 @@ http://127.0.0.1:6878/ace/getstream?id=e8eec35f4662be1af96963245bfa88fb7d0242c4
 https://crcdn09.adnxs-simple.com/creative20/p/13337/2024/2/20/54729052/fbd1bc15-ee05-433d-9cb5-aede0c4784e7_768_432_500k.webm
 #EXTINF: -1 tvg-id="TVG" tvg-logo= "https://evarfontenla.com/wp-content/uploads/TELEVISION-DE-GALICIA.png" group-title="TDT",TVG
 https://crtvg-events1.flumotion.cloud/crtvg/events1_high/chunks.m3u8
+#EXTINF: -1 tvg-name="STREAM" tvg-logo="https://pics.filmaffinity.com/el_correo-686123937-mmed.jpg" group-title="Peliculas Acestream", El Correo (2024)
+http://127.0.0.1:6878/ace/getstream?id=eb2362d0f417078682796f29e14461420c6922e8
 #EXTINF: -1 tvg-name="STREAM" tvg-logo="https://pics.filmaffinity.com/the_blind-795578593-mmed.jpg" group-title="Peliculas Acestream", Sombras del pasado (2024)
 http://127.0.0.1:6878/ace/getstream?id=f7ec787447afb9e6e2da5377564a081a806be8b1
 #EXTINF: -1 tvg-name="STREAM" tvg-logo="https://pics.filmaffinity.com/godzilla_x_kong_the_new_empire-478803486-mmed.jpg" group-title="Peliculas Acestream", Godzilla y Kong el nuevo imperio (2024)
