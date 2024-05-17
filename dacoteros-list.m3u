@@ -233,6 +233,8 @@ https://crtvg-events1.flumotion.cloud/crtvg/events1_high/chunks.m3u8
 https://laotra-1-23-secure2.akamaized.net/bitrate_1.m3u8
 #EXTINF: -1 tvg-id="TVG" tvg-logo= "https://evarfontenla.com/wp-content/uploads/TELEVISION-DE-GALICIA.png" group-title="TDT",Esport3
 https://directes-tv-es.ccma.cat/live-origin/esport3-hls/bitrate_7.m3u8
+#EXTINF: -1 tvg-name="STREAM" tvg-logo="https://pasateatorrent.org/wp-content/uploads/2023/07/oso-vicioso2-(poster).jpg" group-title="Peliculas Acestream", Oso Vicioso (2023)
+http://127.0.0.1:6878/ace/getstream?id=4f87da34fc86d8cef799093b1badf1fc4ff6a302
 #EXTINF: -1 tvg-name="STREAM" tvg-logo="https://pics.filmaffinity.com/turtles_all_the_way_down-222191589-mmed.jpg" group-title="Peliculas Acestream", Mil veces hasta siempre (2024)
 http://127.0.0.1:6878/ace/getstream?id=ed1af9140fdecfd5ab7eb3aa1347f41268f1c12c
 #EXTINF: -1 tvg-name="STREAM" tvg-logo="https://pics.filmaffinity.com/gojira_1_0-527349454-mmed.jpg" group-title="Peliculas Acestream", Godzilla Minus One VOSE (2024)
