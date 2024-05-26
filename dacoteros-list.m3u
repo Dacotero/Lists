@@ -233,6 +233,40 @@ https://crtvg-events1.flumotion.cloud/crtvg/events1_high/chunks.m3u8
 https://laotra-1-23-secure2.akamaized.net/bitrate_1.m3u8
 #EXTINF: -1 tvg-id="TVG" tvg-logo= "https://evarfontenla.com/wp-content/uploads/TELEVISION-DE-GALICIA.png" group-title="TDT",Esport3
 https://directes-tv-es.ccma.cat/live-origin/esport3-hls/bitrate_7.m3u8
+
+#EXTINF: -1 tvg-name="STREAM" tvg-logo="https://pics.filmaffinity.com/le_proces_goldman-889345804-mmed.jpg" group-title="Peliculas Acestream", El caso Goldman (2023)
+http://127.0.0.1:6878/ace/getstream?id=1ea213db605046034249f9e88801b54c03a9e00b
+
+#EXTINF: -1 tvg-name="STREAM" tvg-logo="https://pics.filmaffinity.com/the_illusion_of_control-661102623-mmed.jpg" group-title="Peliculas Acestream", Espiral de mentiras (2022)
+http://127.0.0.1:6878/ace/getstream?id=28c275678956c1d09d3b51e35319f15aa8417de4
+
+#EXTINF: -1 tvg-name="STREAM" tvg-logo="https://pics.filmaffinity.com/katak_le_brave_beluga-827743449-mmed.jpg" group-title="Peliculas Acestream", Katak la pequena ballena (2023)
+http://127.0.0.1:6878/ace/getstream?id=bca5caeab3d799773a80b14ea8f4d2a54b22edd2
+
+#EXTINF: -1 tvg-name="STREAM" tvg-logo="https://pics.filmaffinity.com/vermines-479048413-mmed.jpg" group-title="Peliculas Acestream", Vermin La plaga (2023)
+http://127.0.0.1:6878/ace/getstream?id=8fa42b80e3da8187843e336bc11fe07489c59800
+
+#EXTINF: -1 tvg-name="STREAM" tvg-logo="https://pics.filmaffinity.com/borderline-370145871-mmed.jpg" group-title="Peliculas Acestream", Borderline (2023)
+http://127.0.0.1:6878/ace/getstream?id=152b400e396b497d3997ba922376eba8e2eb6e82
+
+#EXTINF: -1 tvg-name="STREAM" tvg-logo="https://pics.filmaffinity.com/atlas-570877983-mmed.jpg" group-title="Peliculas Acestream", Atlas (2024)
+http://127.0.0.1:6878/ace/getstream?id=a287c014bed2955b3777bc9cefb3e2cba680553b
+
+#EXTINF: -1 tvg-name="STREAM" tvg-logo="https://pics.filmaffinity.com/ten_vzyat_gordeya-499615099-mmed.jpg" group-title="Peliculas Acestream", Atrapad a Sombra (2022)
+http://127.0.0.1:6878/ace/getstream?id=07b1edfeade682cbb696b9e77a89d905d2701387
+#EXTINF: -1 tvg-name="STREAM" tvg-logo="https://pics.filmaffinity.com/barbarian-646820684-msmall.jpg" group-title="Peliculas Acestream", barbarian (2022)
+http://127.0.0.1:6878/ace/getstream?id=8b98edc087029c0c6d9290204886db3ee61fe1ef
+#EXTINF: -1 tvg-name="STREAM" tvg-logo="https://pics.filmaffinity.com/coherence-280180556-msmall.jpg" group-title="Peliculas Acestream", coherence (2013)
+http://127.0.0.1:6878/ace/getstream?id=8b98edc087029c0c6d9290204886db3ee61fe1ef
+#EXTINF: -1 tvg-name="STREAM" tvg-logo="https://pics.filmaffinity.com/golden_kamuy-179336958-msmall.jpg" group-title="Peliculas Acestream", Golden Kamuy (2024)
+http://127.0.0.1:6878/ace/getstream?id=3ebf3d9cd39efb6df6fba2b900d1b3761aa08b7c
+#EXTINF: -1 tvg-name="STREAM" tvg-logo="https://pics.filmaffinity.com/monster_high_the_movie_2-522027911-msmall.jpg" group-title="Peliculas Acestream", Monster High 2 (2023)
+http://127.0.0.1:6878/ace/getstream?id=9f5685c4da73d2cd2e0a79445b91cd5a9129a8cd
+#EXTINF: -1 tvg-name="STREAM" tvg-logo="https://pics.filmaffinity.com/thelma_the_unicorn-206191862-msmall.jpg" group-title="Peliculas Acestream", Telma la unicornio (2024)
+http://127.0.0.1:6878/ace/getstream?id=6e34a131bcee4a1d402f65c20d887f2340d70623
+#EXTINF: -1 tvg-name="STREAM" tvg-logo="https://pics.filmaffinity.com/10_jours_encore_sans_maman-536420326-msmall.jpg" group-title="Peliculas Acestream", vacaciones sin mamá (2023)
+http://127.0.0.1:6878/ace/getstream?id=5f55ae58a614217ddc9be798955100d42325e744
+#EXTINF: -1 tvg-name="STREAM" tvg-logo="https://pics.filmaffinity.com/hachi_a_dog_s_tale_hachiko_a_dog_s_story-386676685-mmed.jpg" group-title="Peliculas Acestream",Siempre a tu lado, HACHIKO (2009)
 #EXTINF: -1 tvg-name="STREAM" tvg-logo="https://pasateatorrent.org/wp-content/uploads/2023/07/oso-vicioso2-(poster).jpg" group-title="Peliculas Acestream", Oso Vicioso (2023)
 http://127.0.0.1:6878/ace/getstream?id=4f87da34fc86d8cef799093b1badf1fc4ff6a302
 #EXTINF: -1 tvg-name="STREAM" tvg-logo="https://pics.filmaffinity.com/turtles_all_the_way_down-222191589-mmed.jpg" group-title="Peliculas Acestream", Mil veces hasta siempre (2024)
