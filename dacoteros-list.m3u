@@ -234,6 +234,9 @@ https://laotra-1-23-secure2.akamaized.net/bitrate_1.m3u8
 #EXTINF: -1 tvg-id="TVG" tvg-logo= "https://evarfontenla.com/wp-content/uploads/TELEVISION-DE-GALICIA.png" group-title="TDT",Esport3
 https://directes-tv-es.ccma.cat/live-origin/esport3-hls/bitrate_7.m3u8
 
+#EXTINF: -1 tvg-name="STREAM" tvg-logo="https://pics.filmaffinity.com/the_first_omen-372679118-mmed.jpg" group-title="Peliculas Acestream", La primera profecia (2024)
+http://127.0.0.1:6878/ace/getstream?id=bf01a259144444dc5b226d9959ba1fa562c89991
+
 #EXTINF: -1 tvg-name="STREAM" tvg-logo="https://pics.filmaffinity.com/le_proces_goldman-889345804-mmed.jpg" group-title="Peliculas Acestream", El caso Goldman (2023)
 http://127.0.0.1:6878/ace/getstream?id=1ea213db605046034249f9e88801b54c03a9e00b
 
