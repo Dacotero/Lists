@@ -237,8 +237,7 @@ https://directes-tv-es.ccma.cat/live-origin/esport3-hls/bitrate_7.m3u8ç
 
 #EXTINF: -1 tvg-name="STREAM" tvg-logo="https://cdn.moviefone.com/admin-uploads/posters/tarot-movie-poster_1706632476.jpg" group-title="Peliculas Acestream", Tarot (2024)
 http://127.0.0.1:6878/ace/getstream?id=caf091d8e8c47298050b5d409f24ef72ac0ff8ad
-#EXTINF: -1 tvg-name="STREAM" tvg-logo="https://pics.filmaffinity.com/noryang-546893275-msmall.jpg" group-title="Peliculas Acestream", 
-Noryang La Batalla Final (2023)       
+#EXTINF: -1 tvg-name="STREAM" tvg-logo="https://pics.filmaffinity.com/noryang-546893275-msmall.jpg" group-title="Peliculas Acestream", Noryang La Batalla Final (2023)       
 http://127.0.0.1:6878/ace/getstream?id=15f875b0cc142da2a3c708f8bb8434a809cffcc2
 #EXTINF: -1 tvg-name="STREAM" tvg-logo="https://pics.filmaffinity.com/no_way_up-335653411-msmall.jpg" group-title="Peliculas Acestream", Atrapados En El Abismo (2024)       
 http://127.0.0.1:6878/ace/getstream?id=14ac13576f2ffbe05897ff445b4f6582e412e47f
@@ -275,6 +274,7 @@ http://127.0.0.1:6878/ace/getstream?id=6e34a131bcee4a1d402f65c20d887f2340d70623
 #EXTINF: -1 tvg-name="STREAM" tvg-logo="https://pics.filmaffinity.com/10_jours_encore_sans_maman-536420326-msmall.jpg" group-title="Peliculas Acestream", vacaciones sin mamá (2023)
 http://127.0.0.1:6878/ace/getstream?id=5f55ae58a614217ddc9be798955100d42325e744
 #EXTINF: -1 tvg-name="STREAM" tvg-logo="https://pics.filmaffinity.com/hachi_a_dog_s_tale_hachiko_a_dog_s_story-386676685-mmed.jpg" group-title="Peliculas Acestream",Siempre a tu lado, HACHIKO (2009)
+http://127.0.0.1:6878/ace/getstream?id=34c5b9895d8c1463227eebc880d963d2ea3ab002
 #EXTINF: -1 tvg-name="STREAM" tvg-logo="https://pasateatorrent.org/wp-content/uploads/2023/07/oso-vicioso2-(poster).jpg" group-title="Peliculas Acestream", Oso Vicioso (2023)
 http://127.0.0.1:6878/ace/getstream?id=4f87da34fc86d8cef799093b1badf1fc4ff6a302
 #EXTINF: -1 tvg-name="STREAM" tvg-logo="https://pics.filmaffinity.com/turtles_all_the_way_down-222191589-mmed.jpg" group-title="Peliculas Acestream", Mil veces hasta siempre (2024)
