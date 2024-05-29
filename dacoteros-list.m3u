@@ -235,7 +235,7 @@ https://laotra-1-23-secure2.akamaized.net/bitrate_1.m3u8
 https://directes-tv-es.ccma.cat/live-origin/esport3-hls/bitrate_7.m3u8ç
 
 
-#EXTINF: -1 tvg-name="STREAM" tvg-logo=https://cdn.moviefone.com/admin-uploads/posters/tarot-movie-poster_1706632476.jpg" group-title="Peliculas Acestream", Tarot (2024)
+#EXTINF: -1 tvg-name="STREAM" tvg-logo="https://cdn.moviefone.com/admin-uploads/posters/tarot-movie-poster_1706632476.jpg" group-title="Peliculas Acestream", Tarot (2024)
 http://127.0.0.1:6878/ace/getstream?id=caf091d8e8c47298050b5d409f24ef72ac0ff8ad
 #EXTINF: -1 tvg-name="STREAM" tvg-logo="https://pics.filmaffinity.com/noryang-546893275-msmall.jpg" group-title="Peliculas Acestream", 
 Noryang La Batalla Final (2023)       
@@ -244,7 +244,7 @@ http://127.0.0.1:6878/ace/getstream?id=15f875b0cc142da2a3c708f8bb8434a809cffcc2
 http://127.0.0.1:6878/ace/getstream?id=14ac13576f2ffbe05897ff445b4f6582e412e47f
 #EXTINF: -1 tvg-name="STREAM" tvg-logo="https://pics.filmaffinity.com/butterfly_tale-435637398-mmed.jpg" group-title="Peliculas Acestream", Patrick (2023)       
 http://127.0.0.1:6878/ace/getstream?id=d7b4c0e38cb79fc1b9e54667b242413f5758f574
-#EXTINF: -1 tvg-name="STREAM" tvg-logo=https://pics.filmaffinity.com/bastarden-795442169-mmed.jpg" group-title="Peliculas Acestream", La tierra prometida (2023)
+#EXTINF: -1 tvg-name="STREAM" tvg-logo="https://www.cinesur.com/data/fotos/la-tierra-prometida-99548.jpg" group-title="Peliculas Acestream", La tierra prometida (2023)
 http://127.0.0.1:6878/ace/getstream?id=ecc2ce8d0c7f8e92844a1ee3a86c3509ebd3d4d0
 #EXTINF: -1 tvg-name="STREAM" tvg-logo="https://pics.filmaffinity.com/the_first_omen-372679118-mmed.jpg" group-title="Peliculas Acestream", La primera profecia (2024)
 http://127.0.0.1:6878/ace/getstream?id=bf01a259144444dc5b226d9959ba1fa562c89991
