@@ -232,32 +232,34 @@ https://crtvg-events1.flumotion.cloud/crtvg/events1_high/chunks.m3u8
 #EXTINF: -1 tvg-id="TVG" tvg-logo= "https://evarfontenla.com/wp-content/uploads/TELEVISION-DE-GALICIA.png" group-title="TDT",La Otra
 https://laotra-1-23-secure2.akamaized.net/bitrate_1.m3u8
 #EXTINF: -1 tvg-id="TVG" tvg-logo= "https://evarfontenla.com/wp-content/uploads/TELEVISION-DE-GALICIA.png" group-title="TDT",Esport3
-https://directes-tv-es.ccma.cat/live-origin/esport3-hls/bitrate_7.m3u8
+https://directes-tv-es.ccma.cat/live-origin/esport3-hls/bitrate_7.m3u8ç
 
+
+#EXTINF: -1 tvg-name="STREAM" tvg-logo=https://pics.filmaffinity.com/tarot-256287294-mmed.jpg" group-title="Peliculas Acestream", Tarot (2024)
+http://127.0.0.1:6878/ace/getstream?id=caf091d8e8c47298050b5d409f24ef72ac0ff8ad
+#EXTINF: -1 tvg-name="STREAM" tvg-logo="https://pics.filmaffinity.com/noryang-546893275-msmall.jpg" group-title="Peliculas Acestream", 
+Noryang La Batalla Final (2023)       
+http://127.0.0.1:6878/ace/getstream?id=15f875b0cc142da2a3c708f8bb8434a809cffcc2
+#EXTINF: -1 tvg-name="STREAM" tvg-logo="https://pics.filmaffinity.com/no_way_up-335653411-msmall.jpg" group-title="Peliculas Acestream", Atrapados En El Abismo (2024)       
+http://127.0.0.1:6878/ace/getstream?id=14ac13576f2ffbe05897ff445b4f6582e412e47f
+#EXTINF: -1 tvg-name="STREAM" tvg-logo="https://pics.filmaffinity.com/butterfly_tale-435637398-mmed.jpg" group-title="Peliculas Acestream", Patrick (2023)       
+http://127.0.0.1:6878/ace/getstream?id=d7b4c0e38cb79fc1b9e54667b242413f5758f574
 #EXTINF: -1 tvg-name="STREAM" tvg-logo=https://pics.filmaffinity.com/bastarden-795442169-mmed.jpg" group-title="Peliculas Acestream", La tierra prometida (2023)
 http://127.0.0.1:6878/ace/getstream?id=ecc2ce8d0c7f8e92844a1ee3a86c3509ebd3d4d0
-
 #EXTINF: -1 tvg-name="STREAM" tvg-logo="https://pics.filmaffinity.com/the_first_omen-372679118-mmed.jpg" group-title="Peliculas Acestream", La primera profecia (2024)
 http://127.0.0.1:6878/ace/getstream?id=bf01a259144444dc5b226d9959ba1fa562c89991
-
 #EXTINF: -1 tvg-name="STREAM" tvg-logo="https://pics.filmaffinity.com/le_proces_goldman-889345804-mmed.jpg" group-title="Peliculas Acestream", El caso Goldman (2023)
 http://127.0.0.1:6878/ace/getstream?id=1ea213db605046034249f9e88801b54c03a9e00b
-
 #EXTINF: -1 tvg-name="STREAM" tvg-logo="https://pics.filmaffinity.com/the_illusion_of_control-661102623-mmed.jpg" group-title="Peliculas Acestream", Espiral de mentiras (2022)
 http://127.0.0.1:6878/ace/getstream?id=28c275678956c1d09d3b51e35319f15aa8417de4
-
 #EXTINF: -1 tvg-name="STREAM" tvg-logo="https://pics.filmaffinity.com/katak_le_brave_beluga-827743449-mmed.jpg" group-title="Peliculas Acestream", Katak la pequena ballena (2023)
 http://127.0.0.1:6878/ace/getstream?id=bca5caeab3d799773a80b14ea8f4d2a54b22edd2
-
 #EXTINF: -1 tvg-name="STREAM" tvg-logo="https://pics.filmaffinity.com/vermines-479048413-mmed.jpg" group-title="Peliculas Acestream", Vermin La plaga (2023)
 http://127.0.0.1:6878/ace/getstream?id=8fa42b80e3da8187843e336bc11fe07489c59800
-
 #EXTINF: -1 tvg-name="STREAM" tvg-logo="https://pics.filmaffinity.com/borderline-370145871-mmed.jpg" group-title="Peliculas Acestream", Borderline (2023)
 http://127.0.0.1:6878/ace/getstream?id=152b400e396b497d3997ba922376eba8e2eb6e82
-
 #EXTINF: -1 tvg-name="STREAM" tvg-logo="https://pics.filmaffinity.com/atlas-570877983-mmed.jpg" group-title="Peliculas Acestream", Atlas (2024)
 http://127.0.0.1:6878/ace/getstream?id=a287c014bed2955b3777bc9cefb3e2cba680553b
-
 #EXTINF: -1 tvg-name="STREAM" tvg-logo="https://pics.filmaffinity.com/ten_vzyat_gordeya-499615099-mmed.jpg" group-title="Peliculas Acestream", Atrapad a Sombra (2022)
 http://127.0.0.1:6878/ace/getstream?id=07b1edfeade682cbb696b9e77a89d905d2701387
 #EXTINF: -1 tvg-name="STREAM" tvg-logo="https://pics.filmaffinity.com/barbarian-646820684-msmall.jpg" group-title="Peliculas Acestream", barbarian (2022)
