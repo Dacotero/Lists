@@ -235,6 +235,23 @@ https://laotra-1-23-secure2.akamaized.net/bitrate_1.m3u8
 https://directes-tv-es.ccma.cat/live-origin/esport3-hls/bitrate_7.m3u8ç
 
 
+#EXTINF: -1 tvg-name="STREAM" tvg-logo="https://pics.filmaffinity.com/challengers-325765300-mmed.jpg" group-title="Peliculas Acestream", Rivales (2024)
+http://127.0.0.1:6878/ace/getstream?id=642c616441724439fb88287ac48984eed9161c5e
+
+#EXTINF: -1 tvg-name="STREAM" tvg-logo="https://pics.filmaffinity.com/miller_s_girl-653037205-large.jpg" group-title="Peliculas Acestream", Miller's Girl (2024)
+http://127.0.0.1:6878/ace/getstream?id=8d2a9937399e482fcdcdf896d2045f63d9211ef7
+
+#EXTINF: -1 tvg-name="STREAM" tvg-logo="https://pics.filmaffinity.com/kolory_zla_czerwien-672639128-large.jpg" group-title="Peliculas Acestream", Los colores del mal: Rojo (2024)
+http://127.0.0.1:6878/ace/getstream?id=110fbe147427e930c5421891a4496cbdb2ef344e
+
+#EXTINF: -1 tvg-name="STREAM" tvg-logo="https://pics.filmaffinity.com/to_catch_a_killer-303581073-mmed.jpg" group-title="Peliculas Acestream", Misántropo (2023)
+http://127.0.0.1:6878/ace/getstream?id=127a6466b7a9c3a11766b71383cbe9ad5d08d132
+
+#EXTINF: -1 tvg-name="STREAM" tvg-logo="https://pics.filmaffinity.com/drive_away_dolls-940271193-mmed.jpg" group-title="Peliculas Acestream", Dos chicas a la fuga (2024)
+http://127.0.0.1:6878/ace/getstream?id=5d3acf30e67ca390c2e1bbd883003123d5e48e00
+
+#EXTINF: -1 tvg-name="STREAM" tvg-logo="https://pics.filmaffinity.com/bionicos-720810507-mmed.jpg" group-title="Peliculas Acestream", Bionicos (2024)
+http://127.0.0.1:6878/ace/getstream?id=a0858faa542a9f2422e07c749291d30cab564bbb
 #EXTINF: -1 tvg-name="STREAM" tvg-logo="https://cdn.moviefone.com/admin-uploads/posters/tarot-movie-poster_1706632476.jpg" group-title="Peliculas Acestream", Tarot (2024)
 http://127.0.0.1:6878/ace/getstream?id=caf091d8e8c47298050b5d409f24ef72ac0ff8ad
 #EXTINF: -1 tvg-name="STREAM" tvg-logo="https://pics.filmaffinity.com/noryang-546893275-msmall.jpg" group-title="Peliculas Acestream", Noryang La Batalla Final (2023)       
